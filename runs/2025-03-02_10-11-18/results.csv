@@ -1,0 +1,5 @@
+Experiment,Accuracy,Precision,Recall,F1 Score
+direct_entity,0.3015,0.9375,0.0514,0.0974
+direct_entity_ontological,0.2965,0.875,0.0479,0.0909
+sequential_hierarchy,0.7161,0.8874,0.7021,0.7839
+sequential_hierarchy_ontological,0.4573,0.8725,0.3048,0.4518

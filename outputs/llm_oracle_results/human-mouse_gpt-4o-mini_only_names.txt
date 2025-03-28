@@ -1,0 +1,10 @@
+http://human.owl#NCI_C33748|http://mouse.owl#MA_0001221|True|0.999999091165773
+http://human.owl#NCI_C12262|http://mouse.owl#MA_0001615|True|0.9999895549275502
+http://human.owl#NCI_C33075|http://mouse.owl#MA_0001249|True|0.9999919389784903
+http://human.owl#NCI_C32658|http://mouse.owl#MA_0002684|False|0.7310574217440415
+http://human.owl#NCI_C33743|http://mouse.owl#MA_0002390|False|0.9998764455634782
+http://human.owl#NCI_C53050|http://mouse.owl#MA_0002234|True|0.99999861435166
+http://human.owl#NCI_C33627|http://mouse.owl#MA_0001460|True|0.9399119954148376
+http://human.owl#NCI_C12909|http://mouse.owl#MA_0002434|True|0.999999091165773
+http://human.owl#NCI_C32497|http://mouse.owl#MA_0000451|True|0.999999091165773
+http://human.owl#NCI_C33791|http://mouse.owl#MA_0000777|True|0.9999976607241361

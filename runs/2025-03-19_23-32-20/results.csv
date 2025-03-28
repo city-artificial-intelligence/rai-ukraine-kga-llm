@@ -1,0 +1,3 @@
+Experiment,Accuracy,Precision,Recall,F1 Score
+direct_entity_with_synonyms,0.7964,0.8679,0.8725,0.8702
+sequential_hierarchy_with_synonyms,0.5724,0.8712,0.5319,0.6605

@@ -79,21 +79,13 @@ You can also see examples of prompts in prompt_examples.ipynb
 
 Statistical significance testing was performed to validate the experimental results. The analysis includes comparison of model performance across different models.
 
-First image contains decision of tests, n.s being not significant
-
-Second image contains p-values of tests
-
-
-![Statistical Testing Results](decisions.jpeg)
-![Statistical Testing Results](p-values.jpeg)
-
-Summary of the table:
-
 We performed different test for oracle results for 9 tasks.
 Tests shows that we are significantly greater then oracle with er 30
 and we are significantly close to oracle with er 20
 
 This means each of our improvements over the oracle is statistically significant (for each task separately), so our claims about outperforming oracle baselines were, in fact, correct
+
+Results are in `metrics/satistical_testing`
 
 
 ### Directory structures

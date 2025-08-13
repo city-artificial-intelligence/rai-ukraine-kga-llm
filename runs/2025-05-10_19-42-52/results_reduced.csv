@@ -1,0 +1,7 @@
+Prompt,Accuracy,Precision,Recall,F1 Score,Specificity,Sensitivity,Youden's index,Dataset,SubSet,Model
+direct_entity,0.5721,0.5608,0.956,0.7069,0.1217,0.956,0.0776,bioml-2024,snomed-ncit.neoplas,gemini-2.0-flash-lite
+direct_entity_ontological,0.6012,0.5835,0.9134,0.7121,0.235,0.9134,0.1484,bioml-2024,snomed-ncit.neoplas,gemini-2.0-flash-lite
+sequential_hierarchy,0.5729,0.561,0.9602,0.7082,0.1183,0.9602,0.0786,bioml-2024,snomed-ncit.neoplas,gemini-2.0-flash-lite
+sequential_hierarchy_ontological,0.5844,0.5774,0.858,0.6903,0.2633,0.858,0.1213,bioml-2024,snomed-ncit.neoplas,gemini-2.0-flash-lite
+direct_entity_with_synonyms,0.5874,0.5691,0.9716,0.7177,0.1367,0.9716,0.1083,bioml-2024,snomed-ncit.neoplas,gemini-2.0-flash-lite
+sequential_hierarchy_with_synonyms,0.5913,0.571,0.9773,0.7208,0.1383,0.9773,0.1156,bioml-2024,snomed-ncit.neoplas,gemini-2.0-flash-lite

@@ -34,7 +34,7 @@ select = [
     "NPY", # NumPy-specific rules
     "RUF", #Ruff-specific rules
 ]
-ignore = ["D100", "D101", "D102", "D103", "D104", "D107", "D417", "G004"]
+ignore = ["D100", "D101", "D102", "D103", "D104", "D107", "D417", "G004", "ERA001"]
 
 [tool.ruff.format]
 quote-style = "double"

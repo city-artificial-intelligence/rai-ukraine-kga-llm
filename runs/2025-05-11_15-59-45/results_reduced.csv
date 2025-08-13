@@ -1,0 +1,6 @@
+Prompt,Accuracy,Precision,Recall,F1 Score,Specificity,Sensitivity,Youden's index,Dataset,SubSet,Model
+all_data_dummy,0.7251,0.6362,0.9512,0.7625,0.5295,0.9512,0.4808,largebio,fma-nci,gemini-2.0-flash-lite
+only_names,0.5588,0.5127,0.9878,0.675,0.1878,0.9878,0.1756,largebio,fma-nci,gemini-2.0-flash-lite
+only_with_children,0.5701,0.5192,0.9878,0.6807,0.2089,0.9878,0.1967,largebio,fma-nci,gemini-2.0-flash-lite
+only_with_parents,0.664,0.5818,0.9805,0.7302,0.3903,0.9805,0.3708,largebio,fma-nci,gemini-2.0-flash-lite
+with_hierarchy,0.681,0.595,0.978,0.7399,0.4241,0.978,0.4021,largebio,fma-nci,gemini-2.0-flash-lite

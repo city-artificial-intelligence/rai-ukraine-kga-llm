@@ -1,0 +1,12 @@
+		greater	greater	less	less	two-sided	two-sided
+		t_test	wilcoxon	t_test	wilcoxon	t_test	wilcoxon
+OASystem + Gemini F2.0	Error Rate 10	n.s.	n.s.	significant	significant	significant	significant
+OASystem + Gemini F2.0	Error Rate 20	n.s.	n.s.	n.s.	n.s.	n.s.	n.s.
+OASystem + Gemini F2.0	Error Rate 30	significant	significant	n.s.	n.s.	n.s.	n.s.
+OASystem + Gemini F2.0	OASystem (auto)	significant	significant	n.s.	n.s.	significant	significant
+OASystem + Gemini F2.0	Perfect Oracle	n.s.	n.s.	significant	significant	significant	significant
+OASystem + Gemini F2.5	Error Rate 10	n.s.	n.s.	significant	significant	significant	significant
+OASystem + Gemini F2.5	Error Rate 20	n.s.	n.s.	n.s.	n.s.	n.s.	n.s.
+OASystem + Gemini F2.5	Error Rate 30	significant	significant	n.s.	n.s.	n.s.	n.s.
+OASystem + Gemini F2.5	OASystem (auto)	significant	significant	n.s.	n.s.	significant	n.s.
+OASystem + Gemini F2.5	Perfect Oracle	n.s.	n.s.	significant	significant	significant	significant

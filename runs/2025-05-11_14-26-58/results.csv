@@ -1,0 +1,6 @@
+Prompt,Accuracy,Precision,Recall,F1 Score,Specificity,Sensitivity,Youden's index,Dataset,SubSet,Model
+all_data_dummy,0.7919,0.7928,0.9809,0.8769,0.2083,0.9809,0.1892,bioml-2024,snomed-ncit.pharm,gemini-2.0-flash
+only_names,0.8063,0.8008,0.9898,0.8853,0.2397,0.9898,0.2295,bioml-2024,snomed-ncit.pharm,gemini-2.0-flash
+only_with_children,0.8011,0.796,0.9905,0.8827,0.2161,0.9905,0.2066,bioml-2024,snomed-ncit.pharm,gemini-2.0-flash
+only_with_parents,0.7934,0.7898,0.9898,0.8786,0.1866,0.9898,0.1765,bioml-2024,snomed-ncit.pharm,gemini-2.0-flash
+with_hierarchy,0.7958,0.7943,0.9847,0.8793,0.2122,0.9847,0.1969,bioml-2024,snomed-ncit.pharm,gemini-2.0-flash

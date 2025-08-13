@@ -1,0 +1,1990 @@
+http://mouse.owl#MA_0002684|http://human.owl#NCI_C32658|"We have two entities from different biomedical ontologies.
+The first one is ""stomach muscularis mucosa"", which belongs to the broader category ""Thing""
+The second one is ""Gastric_Muscularis_Mucosa"", which belongs to the broader category ""Gastric_Mucosa""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001249|http://human.owl#NCI_C33075|"We have two entities from different biomedical ontologies.
+The first one is ""meibomian gland"", which belongs to the broader category ""eye gland""
+The second one is ""Meibomian_Gland"", which belongs to the broader category ""Sebaceous_Gland""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001221|http://human.owl#NCI_C33748|"We have two entities from different biomedical ontologies.
+The first one is ""tensor tympani"", which belongs to the broader category ""tympanic cavity muscle""
+The second one is ""Tensor_Tympani"", which belongs to the broader category ""Muscle_of_the_Tympanum""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001615|http://human.owl#NCI_C12262|"We have two entities from different biomedical ontologies.
+The first one is ""stomach greater curvature"", which belongs to the broader category ""stomach region""
+The second one is ""Greater_Curvature"", which belongs to the broader category ""Gastrointestinal_System_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002234|http://human.owl#NCI_C53050|"We have two entities from different biomedical ontologies.
+The first one is ""testicular vein"", which belongs to the broader category ""vein""
+The second one is ""Spermatic_Vein"", which belongs to the broader category ""Vein""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002390|http://human.owl#NCI_C33743|"We have two entities from different biomedical ontologies.
+The first one is ""temporalis"", which belongs to the broader category ""skeletal muscle""
+The second one is ""Temporal_Muscle"", which belongs to the broader category ""Muscle_of_the_Mastication""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000451|http://human.owl#NCI_C32497|"We have two entities from different biomedical ontologies.
+The first one is ""elbow joint"", which belongs to the broader category ""forelimb joint""
+The second one is ""Elbow_Joint"", which belongs to the broader category ""Joint_By_Site""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001460|http://human.owl#NCI_C33627|"We have two entities from different biomedical ontologies.
+The first one is ""ovary stratum granulosum"", which belongs to the broader category ""Thing""
+The second one is ""Stratum_Granulosum"", which belongs to the broader category ""Skin_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002434|http://human.owl#NCI_C12909|"We have two entities from different biomedical ontologies.
+The first one is ""hematopoietic system"", which belongs to the broader category ""organ system""
+The second one is ""Hematopoietic_System"", which belongs to the broader category ""Hematopoietic_and_Lymphatic_System_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000777|http://human.owl#NCI_C33791|"We have two entities from different biomedical ontologies.
+The first one is ""tonsil crypt"", which belongs to the broader category ""Thing""
+The second one is ""Tonsillar_Crypt"", which belongs to the broader category ""Tonsil_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001095|http://human.owl#NCI_C12758|"We have two entities from different biomedical ontologies.
+The first one is ""oculomotor III nerve"", which belongs to the broader category ""cranial nerve""
+The second one is ""Oculomotor_Nerve"", which belongs to the broader category ""Cranial_Nerve""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001836|http://human.owl#NCI_C49212|"We have two entities from different biomedical ontologies.
+The first one is ""bronchus lamina propria"", which belongs to the broader category ""bronchus connective tissue""
+The second one is ""Bronchus_Lamina_Propria"", which belongs to the broader category ""Lamina_Propria""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000470|http://human.owl#NCI_C32742|"We have two entities from different biomedical ontologies.
+The first one is ""hip joint"", which belongs to the broader category ""hindlimb joint""
+The second one is ""Hip_Joint"", which belongs to the broader category ""Joint_By_Site""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000813|http://human.owl#NCI_C12349|"We have two entities from different biomedical ontologies.
+The first one is ""brain meninges"", which belongs to the broader category ""meninges""
+The second one is ""Cerebral_Meninges"", which belongs to the broader category ""Meninges""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000789|http://human.owl#NCI_C32296|"We have two entities from different biomedical ontologies.
+The first one is ""cervical mammary gland"", which belongs to the broader category ""mammary gland""
+The second one is ""Cervical_Gland"", which belongs to the broader category ""Exocrine_Gland""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000702|http://human.owl#NCI_C49191|"We have two entities from different biomedical ontologies.
+The first one is ""aorta smooth muscle"", which belongs to the broader category ""arterial system smooth muscle""
+The second one is ""Aorta_Smooth_Muscle_Tissue"", which belongs to the broader category ""Tunica_Media""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001454|http://human.owl#NCI_C33869|"We have two entities from different biomedical ontologies.
+The first one is ""vertebra neural canal"", which belongs to the broader category ""Thing""
+The second one is ""Vertebral_Canal"", which belongs to the broader category ""Skeletal_System_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000172|http://human.owl#NCI_C12457|"We have two entities from different biomedical ontologies.
+The first one is ""epithalamus"", which belongs to the broader category ""Thing""
+The second one is ""Epithalamus"", which belongs to the broader category ""Brain_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000060|http://human.owl#NCI_C12679|"We have two entities from different biomedical ontologies.
+The first one is ""blood vessel"", which belongs to the broader category ""Thing""
+The second one is ""Blood_Vessel"", which belongs to the broader category ""Cardiovascular_System_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000756|http://human.owl#NCI_C12992|"We have two entities from different biomedical ontologies.
+The first one is ""spleen red pulp"", which belongs to the broader category ""Thing""
+The second one is ""Splenic_Red_Pulp"", which belongs to the broader category ""Splenic_Pulp""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000796|http://human.owl#NCI_C12299|"We have two entities from different biomedical ontologies.
+The first one is ""nipple"", which belongs to the broader category ""Thing""
+The second one is ""Nipple"", which belongs to the broader category ""Breast-Related_Entity""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001338|http://human.owl#NCI_C33139|"We have two entities from different biomedical ontologies.
+The first one is ""pubis"", which belongs to the broader category ""pelvic girdle bone""
+The second one is ""Mons_Pubis"", which belongs to the broader category ""Female_Reproductive_System_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001730|http://human.owl#NCI_C49313|"We have two entities from different biomedical ontologies.
+The first one is ""vagina epithelium"", which belongs to the broader category ""Thing""
+The second one is ""Vaginal_Epithelium"", which belongs to the broader category ""Epithelium""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001320|http://human.owl#NCI_C33178|"We have two entities from different biomedical ontologies.
+The first one is ""external naris"", which belongs to the broader category ""naris""
+The second one is ""Nostril"", which belongs to the broader category ""Organ_of_Special_Sense_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001552|http://human.owl#NCI_C33565|"We have two entities from different biomedical ontologies.
+The first one is ""small intestine crypt of lieberkuhn"", which belongs to the broader category ""crypt of lieberkuhn""
+The second one is ""Small_Intestinal_Crypt_of_Lieberkuhn"", which belongs to the broader category ""Crypts_of_the_Lieberkuhn""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000004|http://human.owl#NCI_C13041|"We have two entities from different biomedical ontologies.
+The first one is ""trunk"", which belongs to the broader category ""anatomic region""
+The second one is ""Body"", which belongs to the broader category ""Other_Anatomic_Concept""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000206|http://human.owl#NCI_C12442|"We have two entities from different biomedical ontologies.
+The first one is ""medulla oblongata"", which belongs to the broader category ""Thing""
+The second one is ""Medulla_Oblongata"", which belongs to the broader category ""Brain_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002487|http://human.owl#NCI_C33603|"We have two entities from different biomedical ontologies.
+The first one is ""spleen pulp"", which belongs to the broader category ""Thing""
+The second one is ""Splenic_Pulp"", which belongs to the broader category ""Splenic_Tissue""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000205|http://human.owl#NCI_C12442|"We have two entities from different biomedical ontologies.
+The first one is ""myelencephalon"", which belongs to the broader category ""Thing""
+The second one is ""Medulla_Oblongata"", which belongs to the broader category ""Brain_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000237|http://human.owl#NCI_C12499|"We have two entities from different biomedical ontologies.
+The first one is ""inner ear"", which belongs to the broader category ""Thing""
+The second one is ""Internal_Ear"", which belongs to the broader category ""Ear_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001841|http://human.owl#NCI_C49210|"We have two entities from different biomedical ontologies.
+The first one is ""lobar bronchus connective tissue"", which belongs to the broader category ""Thing""
+The second one is ""Bronchus_Connective_Tissue"", which belongs to the broader category ""Connective_Tissue""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001633|http://human.owl#NCI_C49228|"We have two entities from different biomedical ontologies.
+The first one is ""gall bladder lamina propria"", which belongs to the broader category ""Thing""
+The second one is ""Gallbladder_Lamina_Propria"", which belongs to the broader category ""Gastrointestinal_Tract_Lamina_Propria""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002420|http://human.owl#NCI_C12725|"We have two entities from different biomedical ontologies.
+The first one is ""gonad"", which belongs to the broader category ""reproductive organ""
+The second one is ""Gonad"", which belongs to the broader category ""Other_Anatomic_Concept""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000398|http://human.owl#NCI_C32492|"We have two entities from different biomedical ontologies.
+The first one is ""efferent duct"", which belongs to the broader category ""Thing""
+The second one is ""Efferent_Ductule"", which belongs to the broader category ""Male_Reproductive_System_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001616|http://human.owl#NCI_C12261|"We have two entities from different biomedical ontologies.
+The first one is ""stomach lesser curvature"", which belongs to the broader category ""stomach region""
+The second one is ""Lesser_Curvature"", which belongs to the broader category ""Gastrointestinal_System_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000768|http://human.owl#NCI_C33771|"We have two entities from different biomedical ontologies.
+The first one is ""thymus epithelium"", which belongs to the broader category ""Thing""
+The second one is ""Thymic_Epithelial_Cell"", which belongs to the broader category ""Epithelial_Cell""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002554|http://human.owl#NCI_C33340|"We have two entities from different biomedical ontologies.
+The first one is ""popliteus"", which belongs to the broader category ""skeletal muscle""
+The second one is ""Popliteus_Muscle"", which belongs to the broader category ""Muscle""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002748|http://human.owl#NCI_C13082|"We have two entities from different biomedical ontologies.
+The first one is ""internal capsule"", which belongs to the broader category ""cerebral white matter""
+The second one is ""Internal_Capsule"", which belongs to the broader category ""Brain_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000014|http://human.owl#NCI_C12907|"We have two entities from different biomedical ontologies.
+The first one is ""integumental system"", which belongs to the broader category ""organ system""
+The second one is ""Integumentary_System"", which belongs to the broader category ""Organ_System""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001771|http://human.owl#NCI_C12867|"We have two entities from different biomedical ontologies.
+The first one is ""alveolus epithelium"", which belongs to the broader category ""lung epithelium""
+The second one is ""Alveolar_Epithelium"", which belongs to the broader category ""Epithelium""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000369|http://human.owl#NCI_C12927|"We have two entities from different biomedical ontologies.
+The first one is ""kidney calyx"", which belongs to the broader category ""Thing""
+The second one is ""Renal_Calyx"", which belongs to the broader category ""Kidney_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001355|http://human.owl#NCI_C32414|"We have two entities from different biomedical ontologies.
+The first one is ""cuboid"", which belongs to the broader category ""tarsal bone""
+The second one is ""Cuboid_Bone"", which belongs to the broader category ""Tarsal_Bone""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002683|http://human.owl#NCI_C32656|"We have two entities from different biomedical ontologies.
+The first one is ""stomach mucosa"", which belongs to the broader category ""Thing""
+The second one is ""Gastric_Mucosa"", which belongs to the broader category ""Mucosa""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002302|http://human.owl#NCI_C53172|"We have two entities from different biomedical ontologies.
+The first one is ""foot interosseus muscle"", which belongs to the broader category ""skeletal muscle""
+The second one is ""Foot_Interosseous_Muscle"", which belongs to the broader category ""Muscle""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001729|http://human.owl#NCI_C49312|"We have two entities from different biomedical ontologies.
+The first one is ""uterus serosa"", which belongs to the broader category ""Thing""
+The second one is ""Uterus_Serosal_Surface"", which belongs to the broader category ""Serosa""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000388|http://human.owl#NCI_C12598|"We have two entities from different biomedical ontologies.
+The first one is ""unfertilized egg"", which belongs to the broader category ""Thing""
+The second one is ""Egg"", which belongs to the broader category ""Germ_Cell""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002723|http://human.owl#NCI_C32743|"We have two entities from different biomedical ontologies.
+The first one is ""hippocampal commissure"", which belongs to the broader category ""Thing""
+The second one is ""Hippocampal_Fissure"", which belongs to the broader category ""Cerebral_Fissure""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000166|http://human.owl#NCI_C12437|"We have two entities from different biomedical ontologies.
+The first one is ""smooth muscle"", which belongs to the broader category ""muscle""
+The second one is ""Smooth_Muscle_Tissue"", which belongs to the broader category ""Muscle_Tissue""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000341|http://human.owl#NCI_C12421|"We have two entities from different biomedical ontologies.
+The first one is ""oral region"", which belongs to the broader category ""Thing""
+The second one is ""Oral_Cavity"", which belongs to the broader category ""Cavity""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001100|http://human.owl#NCI_C12806|"We have two entities from different biomedical ontologies.
+The first one is ""trigeminal V nerve"", which belongs to the broader category ""cranial nerve""
+The second one is ""Trigeminal_Nerve"", which belongs to the broader category ""Cranial_Nerve""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002677|http://human.owl#NCI_C48257|"We have two entities from different biomedical ontologies.
+The first one is ""parathyroid gland parenchyma"", which belongs to the broader category ""Thing""
+The second one is ""Parathyroid_Gland_Parenchymal_Cell"", which belongs to the broader category ""Endocrine_Cell_and_Neuroendocrine_Cell""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000333|http://human.owl#NCI_C12379|"We have two entities from different biomedical ontologies.
+The first one is ""large intestine"", which belongs to the broader category ""Thing""
+The second one is ""Large_Intestine"", which belongs to the broader category ""Gastrointestinal_System_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000170|http://human.owl#NCI_C12455|"We have two entities from different biomedical ontologies.
+The first one is ""forebrain"", which belongs to the broader category ""Thing""
+The second one is ""Prosencephalon"", which belongs to the broader category ""Brain_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001914|http://human.owl#NCI_C52844|"We have two entities from different biomedical ontologies.
+The first one is ""suprarenal artery"", which belongs to the broader category ""artery""
+The second one is ""Adrenal_Artery"", which belongs to the broader category ""Abdominal_Aorta_Branch""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001659|http://human.owl#NCI_C32683|"We have two entities from different biomedical ontologies.
+The first one is ""glomerular capillary basement membrane"", which belongs to the broader category ""Thing""
+The second one is ""Glomerular_Basement_Membrane"", which belongs to the broader category ""Membrane""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001269|http://human.owl#NCI_C32315|"We have two entities from different biomedical ontologies.
+The first one is ""ciliary muscle"", which belongs to the broader category ""ocular smooth muscle""
+The second one is ""Ciliary_Muscle"", which belongs to the broader category ""Muscle""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002655|http://human.owl#NCI_C12884|"We have two entities from different biomedical ontologies.
+The first one is ""ureter urothelium"", which belongs to the broader category ""Thing""
+The second one is ""Urothelium"", which belongs to the broader category ""Transitional_Epithelium""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002127|http://human.owl#NCI_C33665|"We have two entities from different biomedical ontologies.
+The first one is ""superficial palmal arch"", which belongs to the broader category ""forelimb digital veins""
+The second one is ""Superficial_Palmar_Arch"", which belongs to the broader category ""Ulnar_Artery_Branch""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001073|http://human.owl#NCI_C12897|"We have two entities from different biomedical ontologies.
+The first one is ""oculomotor III nucleus"", which belongs to the broader category ""brainstem nucleus""
+The second one is ""Oculomotor_Nucleus"", which belongs to the broader category ""Brain_Nucleus""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001546|http://human.owl#NCI_C32929|"We have two entities from different biomedical ontologies.
+The first one is ""large intestine serosa"", which belongs to the broader category ""Thing""
+The second one is ""Large_Intestinal_Serosal_Surface"", which belongs to the broader category ""Intestinal_Serosal_Surface""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000251|http://human.owl#NCI_C33528|"We have two entities from different biomedical ontologies.
+The first one is ""semicircular duct"", which belongs to the broader category ""Thing""
+The second one is ""Semicircular_Duct"", which belongs to the broader category ""Duct""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001326|http://human.owl#NCI_C33205|"We have two entities from different biomedical ontologies.
+The first one is ""nasal cavity respiratory epithelium"", which belongs to the broader category ""nasal cavity epithelium""
+The second one is ""Olfactory_Mucosa"", which belongs to the broader category ""Mucosa""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001251|http://human.owl#NCI_C49482|"We have two entities from different biomedical ontologies.
+The first one is ""eyelid connective tissue"", which belongs to the broader category ""Thing""
+The second one is ""Eyelid_Connective_Tissue"", which belongs to the broader category ""Connective_Tissue""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000901|http://human.owl#NCI_C32653|"We have two entities from different biomedical ontologies.
+The first one is ""cortical layer V"", which belongs to the broader category ""neocortex layer""
+The second one is ""Ganglionic_Layer"", which belongs to the broader category ""Cortical_Cell_Layer_of_the_Cerebral_Cortex""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002688|http://human.owl#NCI_C32926|"We have two entities from different biomedical ontologies.
+The first one is ""large intestine mucosa"", which belongs to the broader category ""Thing""
+The second one is ""Large_Intestinal_Mucosa"", which belongs to the broader category ""Large_Intestinal_Wall_Tissue""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001253|http://human.owl#NCI_C49482|"We have two entities from different biomedical ontologies.
+The first one is ""eyelid submuscular connective tissue"", which belongs to the broader category ""eyelid connective tissue""
+The second one is ""Eyelid_Connective_Tissue"", which belongs to the broader category ""Connective_Tissue""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002225|http://human.owl#NCI_C33666|"We have two entities from different biomedical ontologies.
+The first one is ""superficial cervical vein"", which belongs to the broader category ""vein""
+The second one is ""Superficial_Vein"", which belongs to the broader category ""Systemic_Vein""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000026|http://human.owl#NCI_C12742|"We have two entities from different biomedical ontologies.
+The first one is ""hindlimb"", which belongs to the broader category ""limb""
+The second one is ""Lower_Extremity"", which belongs to the broader category ""Limb""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000417|http://human.owl#NCI_C32056|"We have two entities from different biomedical ontologies.
+The first one is ""alveolar duct"", which belongs to the broader category ""Thing""
+The second one is ""Alveolar_Duct"", which belongs to the broader category ""Lung_Tissue""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002062|http://human.owl#NCI_C33661|"We have two entities from different biomedical ontologies.
+The first one is ""superficial temporal artery"", which belongs to the broader category ""temporal artery""
+The second one is ""Superficial_Femoral_Artery"", which belongs to the broader category ""Femoral_Artery_Branch""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000323|http://human.owl#NCI_C12378|"We have two entities from different biomedical ontologies.
+The first one is ""gastrointestinal system"", which belongs to the broader category ""visceral organ system""
+The second one is ""Gastrointestinal_System"", which belongs to the broader category ""Organ_System""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001347|http://human.owl#NCI_C33121|"We have two entities from different biomedical ontologies.
+The first one is ""triquetral"", which belongs to the broader category ""proximal carpal bone""
+The second one is ""Middle_Inferior_Frontal_Convolution"", which belongs to the broader category ""Inferior_Frontal_Convolution""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001831|http://human.owl#NCI_C49210|"We have two entities from different biomedical ontologies.
+The first one is ""bronchus connective tissue"", which belongs to the broader category ""Thing""
+The second one is ""Bronchus_Connective_Tissue"", which belongs to the broader category ""Connective_Tissue""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001039|http://human.owl#NCI_C12899|"We have two entities from different biomedical ontologies.
+The first one is ""hypoglossal XII nucleus"", which belongs to the broader category ""brainstem nucleus""
+The second one is ""Hypoglossal_Nucleus"", which belongs to the broader category ""Brain_Nucleus""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001624|http://human.owl#NCI_C12259|"We have two entities from different biomedical ontologies.
+The first one is ""stomach pyloric antrum"", which belongs to the broader category ""stomach region""
+The second one is ""Antrum_Pylori"", which belongs to the broader category ""Gastrointestinal_System_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002131|http://human.owl#NCI_C12879|"We have two entities from different biomedical ontologies.
+The first one is ""great vein of heart"", which belongs to the broader category ""vein""
+The second one is ""Great_Cardiac_Vein"", which belongs to the broader category ""Cardiac_Vein""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000436|http://human.owl#NCI_C12683|"We have two entities from different biomedical ontologies.
+The first one is ""bronchus"", which belongs to the broader category ""thoracic cavity organ""
+The second one is ""Bronchus"", which belongs to the broader category ""Respiratory_System_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001032|http://human.owl#NCI_C12821|"We have two entities from different biomedical ontologies.
+The first one is ""vestibular VIII nucleus"", which belongs to the broader category ""brainstem nucleus""
+The second one is ""Vestibular_Nucleus"", which belongs to the broader category ""Brain_Nucleus""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002324|http://human.owl#NCI_C32824|"We have two entities from different biomedical ontologies.
+The first one is ""intercostales"", which belongs to the broader category ""skeletal muscle""
+The second one is ""Intercostal_Muscle"", which belongs to the broader category ""Muscle""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002053|http://human.owl#NCI_C33661|"We have two entities from different biomedical ontologies.
+The first one is ""superficial radial artery"", which belongs to the broader category ""artery""
+The second one is ""Superficial_Femoral_Artery"", which belongs to the broader category ""Femoral_Artery_Branch""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000255|http://human.owl#NCI_C12500|"We have two entities from different biomedical ontologies.
+The first one is ""auditory tube"", which belongs to the broader category ""Thing""
+The second one is ""Eustachian_Tube"", which belongs to the broader category ""Ear_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001982|http://human.owl#NCI_C52941|"We have two entities from different biomedical ontologies.
+The first one is ""internal mammary artery"", which belongs to the broader category ""artery""
+The second one is ""Internal_Mammary_Artery"", which belongs to the broader category ""Artery""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000186|http://human.owl#NCI_C49136|"We have two entities from different biomedical ontologies.
+The first one is ""neocortex layer"", which belongs to the broader category ""Thing""
+The second one is ""Cortical_Cell_Layer_of_the_Cerebral_Cortex"", which belongs to the broader category ""Cortical_Cell_Layer""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001567|http://human.owl#NCI_C49222|"We have two entities from different biomedical ontologies.
+The first one is ""esophagus squamous epithelium"", which belongs to the broader category ""esophagus epithelium""
+The second one is ""Esophageal_Squamous_Epithelium"", which belongs to the broader category ""Esophageal_Epithelium""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001676|http://human.owl#NCI_C32154|"We have two entities from different biomedical ontologies.
+The first one is ""loop of henle ascending limb"", which belongs to the broader category ""Thing""
+The second one is ""Ascending_Limb_of_the_Henle_s_Loop"", which belongs to the broader category ""Renal_Tubule""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000288|http://human.owl#NCI_C12759|"We have two entities from different biomedical ontologies.
+The first one is ""olfactory receptor nerve"", which belongs to the broader category ""Thing""
+The second one is ""Olfactory_Nerve"", which belongs to the broader category ""Cranial_Nerve""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001289|http://human.owl#NCI_C28381|"We have two entities from different biomedical ontologies.
+The first one is ""sphincter pupillae"", which belongs to the broader category ""iris muscle""
+The second one is ""Sphincter"", which belongs to the broader category ""Muscle""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000152|http://human.owl#NCI_C12701|"We have two entities from different biomedical ontologies.
+The first one is ""dermis"", which belongs to the broader category ""Thing""
+The second one is ""Dermis"", which belongs to the broader category ""Skin_Tissue""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001679|http://human.owl#NCI_C32154|"We have two entities from different biomedical ontologies.
+The first one is ""loop of henle descending limb"", which belongs to the broader category ""Thing""
+The second one is ""Ascending_Limb_of_the_Henle_s_Loop"", which belongs to the broader category ""Renal_Tubule""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000259|http://human.owl#NCI_C12292|"We have two entities from different biomedical ontologies.
+The first one is ""auricle"", which belongs to the broader category ""Thing""
+The second one is ""External_Ear"", which belongs to the broader category ""Ear_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000279|http://human.owl#NCI_C13177|"We have two entities from different biomedical ontologies.
+The first one is ""pigmented retinal epithelium"", which belongs to the broader category ""Thing""
+The second one is ""Pigment_Epithelium"", which belongs to the broader category ""Epithelium""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001771|http://human.owl#NCI_C32053|"We have two entities from different biomedical ontologies.
+The first one is ""alveolus epithelium"", which belongs to the broader category ""lung epithelium""
+The second one is ""Alveolar_Cell"", which belongs to the broader category ""Epithelial_Cell""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000459|http://human.owl#NCI_C33548|"We have two entities from different biomedical ontologies.
+The first one is ""shoulder joint"", which belongs to the broader category ""forelimb joint""
+The second one is ""Shoulder_Joint"", which belongs to the broader category ""Joint_By_Site""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002519|http://human.owl#NCI_C32661|"We have two entities from different biomedical ontologies.
+The first one is ""stomach secretion"", which belongs to the broader category ""digestive system fluid/secretion""
+The second one is ""Gastric_Secretion"", which belongs to the broader category ""Gastrointestinal_Fluid_or_Secretion""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001835|http://human.owl#NCI_C49209|"We have two entities from different biomedical ontologies.
+The first one is ""bronchus cartilage"", which belongs to the broader category ""bronchus connective tissue""
+The second one is ""Bronchus_Cartilage"", which belongs to the broader category ""Cartilage""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000183|http://human.owl#NCI_C12351|"We have two entities from different biomedical ontologies.
+The first one is ""telencephalon"", which belongs to the broader category ""Thing""
+The second one is ""Cerebral_Hemisphere"", which belongs to the broader category ""Brain_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002680|http://human.owl#NCI_C32538|"We have two entities from different biomedical ontologies.
+The first one is ""esophagus mucosa"", which belongs to the broader category ""Thing""
+The second one is ""Esophageal_Mucosa"", which belongs to the broader category ""Mucosa""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000810|http://human.owl#NCI_C49333|"We have two entities from different biomedical ontologies.
+The first one is ""brain grey matter"", which belongs to the broader category ""grey matter""
+The second one is ""Cerebral_Gray_Matter"", which belongs to the broader category ""Brain_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001611|http://human.owl#NCI_C12848|"We have two entities from different biomedical ontologies.
+The first one is ""stomach squamous epithelium"", which belongs to the broader category ""stomach epithelium""
+The second one is ""Squamous_Epithelium"", which belongs to the broader category ""Epithelium""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001596|http://human.owl#NCI_C49301|"We have two entities from different biomedical ontologies.
+The first one is ""tongue skeletal muscle"", which belongs to the broader category ""Thing""
+The second one is ""Tongue_Skeletal_Muscle_Tissue"", which belongs to the broader category ""Skeletal_Muscle_Tissue""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000077|http://human.owl#NCI_C13004|"We have two entities from different biomedical ontologies.
+The first one is ""atrium endocardium"", which belongs to the broader category ""heart endocardium""
+The second one is ""Endocardium"", which belongs to the broader category ""Heart_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000076|http://human.owl#NCI_C13004|"We have two entities from different biomedical ontologies.
+The first one is ""heart endocardium"", which belongs to the broader category ""cardiovascular system endothelium""
+The second one is ""Endocardium"", which belongs to the broader category ""Heart_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001543|http://human.owl#NCI_C12385|"We have two entities from different biomedical ontologies.
+The first one is ""transverse colon"", which belongs to the broader category ""colon""
+The second one is ""Transverse_Colon"", which belongs to the broader category ""Gastrointestinal_System_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000704|http://human.owl#NCI_C49330|"We have two entities from different biomedical ontologies.
+The first one is ""arterial system smooth muscle"", which belongs to the broader category ""blood vessel smooth muscle""
+The second one is ""Arterial_System_Smooth_Muscle_Tissue"", which belongs to the broader category ""Tunica_Media""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001757|http://human.owl#NCI_C32933|"We have two entities from different biomedical ontologies.
+The first one is ""laryngeal intrinsic ligament"", which belongs to the broader category ""larynx ligament""
+The second one is ""Laryngeal_Ligament"", which belongs to the broader category ""Ligament""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001756|http://human.owl#NCI_C32933|"We have two entities from different biomedical ontologies.
+The first one is ""laryngeal extrinsic ligament"", which belongs to the broader category ""larynx ligament""
+The second one is ""Laryngeal_Ligament"", which belongs to the broader category ""Ligament""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000045|http://human.owl#NCI_C32884|"We have two entities from different biomedical ontologies.
+The first one is ""hip"", which belongs to the broader category ""Thing""
+The second one is ""Ischium"", which belongs to the broader category ""Pelvic_Bone""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001860|http://human.owl#NCI_C49307|"We have two entities from different biomedical ontologies.
+The first one is ""trachea submucosa"", which belongs to the broader category ""trachea non-cartilage connective tissue""
+The second one is ""Trachea_Submucosa"", which belongs to the broader category ""Submucosa""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001547|http://human.owl#NCI_C32931|"We have two entities from different biomedical ontologies.
+The first one is ""large intestine smooth muscle"", which belongs to the broader category ""Thing""
+The second one is ""Large_Intestinal_Wall_Tissue"", which belongs to the broader category ""Normal_Tissue""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001106|http://human.owl#NCI_C12812|"We have two entities from different biomedical ontologies.
+The first one is ""vagus X nerve"", which belongs to the broader category ""cranial nerve""
+The second one is ""Vagus_Nerve"", which belongs to the broader category ""Cranial_Nerve""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002325|http://human.owl#NCI_C32561|"We have two entities from different biomedical ontologies.
+The first one is ""intercostales externus"", which belongs to the broader category ""intercostales""
+The second one is ""External_Intercostal_Muscle"", which belongs to the broader category ""Intercostal_Muscle""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000792|http://human.owl#NCI_C12937|"We have two entities from different biomedical ontologies.
+The first one is ""mammary gland epithelium"", which belongs to the broader category ""Thing""
+The second one is ""Mammary_Epithelium"", which belongs to the broader category ""Epithelium""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001280|http://human.owl#NCI_C32945|"We have two entities from different biomedical ontologies.
+The first one is ""lateral rectus extraocular muscle"", which belongs to the broader category ""rectus extraocular muscle""
+The second one is ""Lateral_Rectus_Muscle"", which belongs to the broader category ""Oculomotor_Muscle""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000941|http://human.owl#NCI_C12353|"We have two entities from different biomedical ontologies.
+The first one is ""temporal cortex"", which belongs to the broader category ""neocortex region""
+The second one is ""Temporal_Lobe"", which belongs to the broader category ""Brain_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002685|http://human.owl#NCI_C32663|"We have two entities from different biomedical ontologies.
+The first one is ""stomach submucosa"", which belongs to the broader category ""Thing""
+The second one is ""Gastric_Submucosa"", which belongs to the broader category ""Submucosa""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001522|http://human.owl#NCI_C25763|"We have two entities from different biomedical ontologies.
+The first one is ""gastrointestinal system serosa"", which belongs to the broader category ""Thing""
+The second one is ""Gastrointestinal_System_Part"", which belongs to the broader category ""Body_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001521|http://human.owl#NCI_C25763|"We have two entities from different biomedical ontologies.
+The first one is ""gastrointestinal system mucosa"", which belongs to the broader category ""Thing""
+The second one is ""Gastrointestinal_System_Part"", which belongs to the broader category ""Body_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001012|http://human.owl#NCI_C32337|"We have two entities from different biomedical ontologies.
+The first one is ""cochlear VIII nucleus"", which belongs to the broader category ""brainstem nucleus""
+The second one is ""Cochlear_Nucleus"", which belongs to the broader category ""Central_Nervous_System_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001591|http://human.owl#NCI_C13147|"We have two entities from different biomedical ontologies.
+The first one is ""taste bud"", which belongs to the broader category ""Thing""
+The second one is ""Taste_Bud_Cell"", which belongs to the broader category ""Epithelial_Receptor_Cell""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002027|http://human.owl#NCI_C32436|"We have two entities from different biomedical ontologies.
+The first one is ""profunda femoris artery"", which belongs to the broader category ""artery""
+The second one is ""Deep_Femoral_Artery"", which belongs to the broader category ""Common_Femoral_Artery_Branch""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001395|http://human.owl#NCI_C52786|"We have two entities from different biomedical ontologies.
+The first one is ""proximal phalanx of hand"", which belongs to the broader category ""hand phalanx""
+The second one is ""Proximal_Phalanx_of_Hand"", which belongs to the broader category ""Hand_Phalanx""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002686|http://human.owl#NCI_C33568|"We have two entities from different biomedical ontologies.
+The first one is ""small intestine mucosa"", which belongs to the broader category ""Thing""
+The second one is ""Small_Intestinal_Mucosa"", which belongs to the broader category ""Small_Intestinal_Wall_Tissue""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001093|http://human.owl#NCI_C12723|"We have two entities from different biomedical ontologies.
+The first one is ""glossopharyngeal IX nerve"", which belongs to the broader category ""cranial nerve""
+The second one is ""Glossopharyngeal_Nerve"", which belongs to the broader category ""Cranial_Nerve""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002063|http://human.owl#NCI_C33581|"We have two entities from different biomedical ontologies.
+The first one is ""testicular artery"", which belongs to the broader category ""artery""
+The second one is ""Spermatic_Artery"", which belongs to the broader category ""Abdominal_Aorta_Branch""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001832|http://human.owl#NCI_C49208|"We have two entities from different biomedical ontologies.
+The first one is ""bronchus basement membrane"", which belongs to the broader category ""bronchus connective tissue""
+The second one is ""Bronchus_Basement_Membrane"", which belongs to the broader category ""Basement_Membrane""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001349|http://human.owl#NCI_C33162|"We have two entities from different biomedical ontologies.
+The first one is ""navicular"", which belongs to the broader category ""tarsal bone""
+The second one is ""Navicular_Bone"", which belongs to the broader category ""Tarsal_Bone""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000854|http://human.owl#NCI_C33923|"We have two entities from different biomedical ontologies.
+The first one is ""pars anterior"", which belongs to the broader category ""Thing""
+The second one is ""Glandular_Cell"", which belongs to the broader category ""Epithelial_Cell""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001539|http://human.owl#NCI_C49243|"We have two entities from different biomedical ontologies.
+The first one is ""intestine smooth muscle"", which belongs to the broader category ""gastrointestinal system smooth muscle""
+The second one is ""Intestinal_Smooth_Muscle_Tissue"", which belongs to the broader category ""Smooth_Muscle_Tissue""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000461|http://human.owl#NCI_C33894|"We have two entities from different biomedical ontologies.
+The first one is ""radio-carpal joint"", which belongs to the broader category ""wrist joint""
+The second one is ""Wrist_Joint"", which belongs to the broader category ""Joint_By_Site""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001029|http://human.owl#NCI_C33140|"We have two entities from different biomedical ontologies.
+The first one is ""trigeminal V motor nucleus"", which belongs to the broader category ""Thing""
+The second one is ""Motor_Nucleus_of_the_Trigeminal_Nerve"", which belongs to the broader category ""Brain_Nucleus""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000044|http://human.owl#NCI_C32622|"We have two entities from different biomedical ontologies.
+The first one is ""foot"", which belongs to the broader category ""autopod""
+The second one is ""Foot"", which belongs to the broader category ""Lower_Extremity_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002321|http://human.owl#NCI_C32764|"We have two entities from different biomedical ontologies.
+The first one is ""iliopsoas"", which belongs to the broader category ""skeletal muscle""
+The second one is ""Iliopsoas_Muscle"", which belongs to the broader category ""Muscle""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001505|http://human.owl#NCI_C32890|"We have two entities from different biomedical ontologies.
+The first one is ""joint of girdle"", which belongs to the broader category ""joint""
+The second one is ""Joint_of_the_Pelvic_Girdle"", which belongs to the broader category ""Joint_By_Site""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000460|http://human.owl#NCI_C33894|"We have two entities from different biomedical ontologies.
+The first one is ""wrist joint"", which belongs to the broader category ""forelimb joint""
+The second one is ""Wrist_Joint"", which belongs to the broader category ""Joint_By_Site""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002689|http://human.owl#NCI_C32928|"We have two entities from different biomedical ontologies.
+The first one is ""large intestine muscularis mucosa"", which belongs to the broader category ""Thing""
+The second one is ""Large_Intestinal_Muscularis_Mucosa"", which belongs to the broader category ""Large_Intestinal_Mucosa""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000453|http://human.owl#NCI_C33106|"We have two entities from different biomedical ontologies.
+The first one is ""metacarpo-phalangeal joint"", which belongs to the broader category ""hand joint""
+The second one is ""Metacarpophalangeal_Joint"", which belongs to the broader category ""Joint_By_Site""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001163|http://human.owl#NCI_C52828|"We have two entities from different biomedical ontologies.
+The first one is ""lumbar sympathetic nerve trunk"", which belongs to the broader category ""sympathetic nerve trunk""
+The second one is ""Lumbar_Sympathetic_Nerve_Trunk"", which belongs to the broader category ""Autonomic_Nervous_System_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001220|http://human.owl#NCI_C33611|"We have two entities from different biomedical ontologies.
+The first one is ""stapedius"", which belongs to the broader category ""tympanic cavity muscle""
+The second one is ""Stapedius_Muscle"", which belongs to the broader category ""Muscle_of_the_Tympanum""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001097|http://human.owl#NCI_C12761|"We have two entities from different biomedical ontologies.
+The first one is ""optic II nerve"", which belongs to the broader category ""cranial nerve""
+The second one is ""Optic_Nerve"", which belongs to the broader category ""Cranial_Nerve""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002516|http://human.owl#NCI_C13270|"We have two entities from different biomedical ontologies.
+The first one is ""pancreas secretion"", which belongs to the broader category ""digestive system fluid/secretion""
+The second one is ""Pancreatic_Secretion"", which belongs to the broader category ""Gastrointestinal_Fluid_or_Secretion""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001537|http://human.owl#NCI_C49241|"We have two entities from different biomedical ontologies.
+The first one is ""intestine mucosa"", which belongs to the broader category ""gastrointestinal system mucosa""
+The second one is ""Intestinal_Mucosa"", which belongs to the broader category ""Mucosa""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002664|http://human.owl#NCI_C38669|"We have two entities from different biomedical ontologies.
+The first one is ""intrahepatic part of right hepatic duct"", which belongs to the broader category ""Thing""
+The second one is ""Intrahepatic_Portion_of_the_Right_Hepatic_Duct"", which belongs to the broader category ""Intrahepatic_Bile_Duct""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002560|http://human.owl#NCI_C12260|"We have two entities from different biomedical ontologies.
+The first one is ""stomach pyloric region"", which belongs to the broader category ""stomach region""
+The second one is ""Pylorus"", which belongs to the broader category ""Gastrointestinal_System_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000338|http://human.owl#NCI_C12263|"We have two entities from different biomedical ontologies.
+The first one is ""duodenum"", which belongs to the broader category ""small intestine""
+The second one is ""Duodenum"", which belongs to the broader category ""Gastrointestinal_System_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002398|http://human.owl#NCI_C33809|"We have two entities from different biomedical ontologies.
+The first one is ""trapezius"", which belongs to the broader category ""skeletal muscle""
+The second one is ""Trapezius_Muscle"", which belongs to the broader category ""Muscle""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001312|http://human.owl#NCI_C32809|"We have two entities from different biomedical ontologies.
+The first one is ""retina inner plexiform layer"", which belongs to the broader category ""retina layer""
+The second one is ""Inner_Plexiform_Layer"", which belongs to the broader category ""Eye_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001863|http://human.owl#NCI_C49306|"We have two entities from different biomedical ontologies.
+The first one is ""trachea smooth muscle"", which belongs to the broader category ""respiratory system smooth muscle""
+The second one is ""Trachea_Smooth_Muscle_Tissue"", which belongs to the broader category ""Smooth_Muscle_Tissue""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002070|http://human.owl#NCI_C33826|"We have two entities from different biomedical ontologies.
+The first one is ""ulnar artery palmar branch"", which belongs to the broader category ""ulnar artery""
+The second one is ""Ulnar_Artery_Branch"", which belongs to the broader category ""Artery""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000127|http://human.owl#NCI_C12608|"We have two entities from different biomedical ontologies.
+The first one is ""pancreatic islet"", which belongs to the broader category ""Thing""
+The second one is ""Islet_of_Langerhans"", which belongs to the broader category ""Gastrointestinal_System_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002606|http://human.owl#NCI_C32685|"We have two entities from different biomedical ontologies.
+The first one is ""glomerular mesangium"", which belongs to the broader category ""Thing""
+The second one is ""Glomerular_Mesangial_Cell"", which belongs to the broader category ""Mesangial_Cell""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001311|http://human.owl#NCI_C32808|"We have two entities from different biomedical ontologies.
+The first one is ""retina inner nuclear layer"", which belongs to the broader category ""retina layer""
+The second one is ""Inner_Nuclear_Layer"", which belongs to the broader category ""Eye_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000113|http://human.owl#NCI_C13046|"We have two entities from different biomedical ontologies.
+The first one is ""ligament"", which belongs to the broader category ""connective tissue""
+The second one is ""Ligament"", which belongs to the broader category ""Connective_Tissue""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000175|http://human.owl#NCI_C12398|"We have two entities from different biomedical ontologies.
+The first one is ""pineal gland"", which belongs to the broader category ""neuroendocrine gland""
+The second one is ""Pineal_Gland"", which belongs to the broader category ""Endocrine_Gland""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002663|http://human.owl#NCI_C38668|"We have two entities from different biomedical ontologies.
+The first one is ""intrahepatic part of left hepatic duct"", which belongs to the broader category ""Thing""
+The second one is ""Intrahepatic_Portion_of_the_Left_Hepatic_Duct"", which belongs to the broader category ""Intrahepatic_Bile_Duct""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001036|http://human.owl#NCI_C32475|"We have two entities from different biomedical ontologies.
+The first one is ""dorsal motor nucleus of vagus X nerve"", which belongs to the broader category ""brainstem nucleus""
+The second one is ""Dorsal_Nucleus_of_the_Vagus_Nerve"", which belongs to the broader category ""Brain_Nucleus""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000532|http://human.owl#NCI_C33287|"We have two entities from different biomedical ontologies.
+The first one is ""pelvis bone"", which belongs to the broader category ""abdomen/pelvis/perineum bone""
+The second one is ""Pelvic_Bone"", which belongs to the broader category ""Bone""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002672|http://human.owl#NCI_C33040|"We have two entities from different biomedical ontologies.
+The first one is ""spleen lymphoid follicle"", which belongs to the broader category ""Thing""
+The second one is ""Lymphoid_Follicle"", which belongs to the broader category ""Lymphoid_Tissue""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000858|http://human.owl#NCI_C32228|"We have two entities from different biomedical ontologies.
+The first one is ""infundibulum"", which belongs to the broader category ""Thing""
+The second one is ""Brain_Infundibulum"", which belongs to the broader category ""Brain_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001709|http://human.owl#NCI_C32692|"We have two entities from different biomedical ontologies.
+The first one is ""ovary mature follicle"", which belongs to the broader category ""ovary follicle""
+The second one is ""Graafian_Follicle"", which belongs to the broader category ""Ovarian_Follicle""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001695|http://human.owl#NCI_C48940|"We have two entities from different biomedical ontologies.
+The first one is ""urinary bladder lamina propria"", which belongs to the broader category ""Thing""
+The second one is ""Bladder_Lamina_Propria"", which belongs to the broader category ""Lamina_Propria""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002690|http://human.owl#NCI_C32930|"We have two entities from different biomedical ontologies.
+The first one is ""large intestine submucosa"", which belongs to the broader category ""Thing""
+The second one is ""Large_Intestinal_Submucosa"", which belongs to the broader category ""Submucosa""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002392|http://human.owl#NCI_C33750|"We have two entities from different biomedical ontologies.
+The first one is ""teres major"", which belongs to the broader category ""skeletal muscle""
+The second one is ""Teres_Major_Muscle"", which belongs to the broader category ""Teres_Muscle""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001245|http://human.owl#NCI_C33652|"We have two entities from different biomedical ontologies.
+The first one is ""corneal stroma"", which belongs to the broader category ""Thing""
+The second one is ""Substantia_Propria"", which belongs to the broader category ""Eye_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001858|http://human.owl#NCI_C49305|"We have two entities from different biomedical ontologies.
+The first one is ""trachea lamina propria"", which belongs to the broader category ""trachea non-cartilage connective tissue""
+The second one is ""Trachea_Lamina_Propria"", which belongs to the broader category ""Lamina_Propria""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000115|http://human.owl#NCI_C13045|"We have two entities from different biomedical ontologies.
+The first one is ""tendon"", which belongs to the broader category ""connective tissue""
+The second one is ""Tendon"", which belongs to the broader category ""Aponeurosis""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002474|http://human.owl#NCI_C12421|"We have two entities from different biomedical ontologies.
+The first one is ""mouth"", which belongs to the broader category ""Thing""
+The second one is ""Oral_Cavity"", which belongs to the broader category ""Cavity""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001165|http://human.owl#NCI_C52827|"We have two entities from different biomedical ontologies.
+The first one is ""thoracic sympathetic nerve trunk"", which belongs to the broader category ""sympathetic nerve trunk""
+The second one is ""Thoracic_Sympathetic_Nerve_Trunk"", which belongs to the broader category ""Autonomic_Nervous_System_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001534|http://human.owl#NCI_C32833|"We have two entities from different biomedical ontologies.
+The first one is ""internal anal sphincter"", which belongs to the broader category ""anal region smooth muscle""
+The second one is ""Internal_Anal_Sphincter"", which belongs to the broader category ""Gastrointestinal_Sphincter""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001536|http://human.owl#NCI_C49240|"We have two entities from different biomedical ontologies.
+The first one is ""intestine epithelium"", which belongs to the broader category ""gastrointestinal system epithelium""
+The second one is ""Intestinal_Epithelium"", which belongs to the broader category ""Gut_Epithelium""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002395|http://human.owl#NCI_C53079|"We have two entities from different biomedical ontologies.
+The first one is ""tibilais cranialis"", which belongs to the broader category ""tibialis muscle""
+The second one is ""Tibialis_Cranialis"", which belongs to the broader category ""Muscle""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001769|http://human.owl#NCI_C32934|"We have two entities from different biomedical ontologies.
+The first one is ""laryngeal extrinsic muscle"", which belongs to the broader category ""larynx muscle""
+The second one is ""Laryngeal_Muscle"", which belongs to the broader category ""Head_and_Neck_Muscle""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001787|http://human.owl#NCI_C49279|"We have two entities from different biomedical ontologies.
+The first one is ""right lung bronchiole"", which belongs to the broader category ""Thing""
+The second one is ""Right_Lung_Bronchiole"", which belongs to the broader category ""Bronchiole""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001562|http://human.owl#NCI_C33572|"We have two entities from different biomedical ontologies.
+The first one is ""small intestine submucosa"", which belongs to the broader category ""Thing""
+The second one is ""Small_Intestinal_Submucosa"", which belongs to the broader category ""Submucosa""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002687|http://human.owl#NCI_C33570|"We have two entities from different biomedical ontologies.
+The first one is ""small intestine muscularis mucosa"", which belongs to the broader category ""Thing""
+The second one is ""Small_Intestinal_Muscularis_Mucosa"", which belongs to the broader category ""Small_Intestinal_Mucosa""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001276|http://human.owl#NCI_C32783|"We have two entities from different biomedical ontologies.
+The first one is ""inferior oblique extraocular muscle"", which belongs to the broader category ""oblique extraocular muscle""
+The second one is ""Inferior_Oblique_Muscle"", which belongs to the broader category ""Oculomotor_Muscle""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001176|http://human.owl#NCI_C32825|"We have two entities from different biomedical ontologies.
+The first one is ""intercostal nerve trunk"", which belongs to the broader category ""peripheral nerve trunk""
+The second one is ""Intercostal_Nerve"", which belongs to the broader category ""Peripheral_Nerve""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000905|http://human.owl#NCI_C12352|"We have two entities from different biomedical ontologies.
+The first one is ""frontal cortex"", which belongs to the broader category ""neocortex region""
+The second one is ""Frontal_Lobe"", which belongs to the broader category ""Brain_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001028|http://human.owl#NCI_C12807|"We have two entities from different biomedical ontologies.
+The first one is ""trigeminal V nucleus"", which belongs to the broader category ""brainstem nucleus""
+The second one is ""Trigeminal_Nucleus"", which belongs to the broader category ""Other_Anatomic_Concept""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001029|http://human.owl#NCI_C12807|"We have two entities from different biomedical ontologies.
+The first one is ""trigeminal V motor nucleus"", which belongs to the broader category ""Thing""
+The second one is ""Trigeminal_Nucleus"", which belongs to the broader category ""Other_Anatomic_Concept""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000463|http://human.owl#NCI_C32078|"We have two entities from different biomedical ontologies.
+The first one is ""ankle joint"", which belongs to the broader category ""hindlimb joint""
+The second one is ""Ankle_Joint"", which belongs to the broader category ""Joint_By_Site""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001358|http://human.owl#NCI_C12809|"We have two entities from different biomedical ontologies.
+The first one is ""ulna"", which belongs to the broader category ""forelimb long bone""
+The second one is ""Ulna"", which belongs to the broader category ""Long_Bone""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002306|http://human.owl#NCI_C32666|"We have two entities from different biomedical ontologies.
+The first one is ""gastrocnemius"", which belongs to the broader category ""skeletal muscle""
+The second one is ""Gastrocnemius_Muscle"", which belongs to the broader category ""Muscle""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000385|http://human.owl#NCI_C12403|"We have two entities from different biomedical ontologies.
+The first one is ""oviduct"", which belongs to the broader category ""female reproductive gland/organ""
+The second one is ""Fallopian_Tube"", which belongs to the broader category ""Organ""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001770|http://human.owl#NCI_C32934|"We have two entities from different biomedical ontologies.
+The first one is ""laryngeal intrinsic muscle"", which belongs to the broader category ""larynx muscle""
+The second one is ""Laryngeal_Muscle"", which belongs to the broader category ""Head_and_Neck_Muscle""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002435|http://human.owl#NCI_C12746|"We have two entities from different biomedical ontologies.
+The first one is ""lymphoid system"", which belongs to the broader category ""organ system""
+The second one is ""Lymphatic_System"", which belongs to the broader category ""Hematopoietic_and_Lymphatic_System_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002559|http://human.owl#NCI_C12258|"We have two entities from different biomedical ontologies.
+The first one is ""stomach body"", which belongs to the broader category ""stomach region""
+The second one is ""Body_of_Stomach"", which belongs to the broader category ""Gastrointestinal_System_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001096|http://human.owl#NCI_C12759|"We have two entities from different biomedical ontologies.
+The first one is ""olfactory I nerve"", which belongs to the broader category ""cranial nerve""
+The second one is ""Olfactory_Nerve"", which belongs to the broader category ""Cranial_Nerve""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000348|http://human.owl#NCI_C12506|"We have two entities from different biomedical ontologies.
+The first one is ""tooth"", which belongs to the broader category ""Thing""
+The second one is ""Tooth"", which belongs to the broader category ""Head_and_Neck_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000193|http://human.owl#NCI_C33204|"We have two entities from different biomedical ontologies.
+The first one is ""olfactory cortex"", which belongs to the broader category ""Thing""
+The second one is ""Olfactory_Lobe"", which belongs to the broader category ""Brain_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002185|http://human.owl#NCI_C53057|"We have two entities from different biomedical ontologies.
+The first one is ""ophthalmic plexus"", which belongs to the broader category ""vein""
+The second one is ""Ophthalmic_Plexus"", which belongs to the broader category ""Nerve_Plexus""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001289|http://human.owl#NCI_C33586|"We have two entities from different biomedical ontologies.
+The first one is ""sphincter pupillae"", which belongs to the broader category ""iris muscle""
+The second one is ""Sphincter_Pupillae_Muscle"", which belongs to the broader category ""Muscle""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002674|http://human.owl#NCI_C33773|"We have two entities from different biomedical ontologies.
+The first one is ""thymus trabecula"", which belongs to the broader category ""Thing""
+The second one is ""Thymic_Trabecula"", which belongs to the broader category ""Thymic_Tissue""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000742|http://human.owl#NCI_C49586|"We have two entities from different biomedical ontologies.
+The first one is ""lymph node follicle"", which belongs to the broader category ""Thing""
+The second one is ""Lymph_Node_Lymphoid_Follicle"", which belongs to the broader category ""Lymphoid_Follicle""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000316|http://human.owl#NCI_C12789|"We have two entities from different biomedical ontologies.
+The first one is ""cranium"", which belongs to the broader category ""Thing""
+The second one is ""Skull"", which belongs to the broader category ""Bone""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001277|http://human.owl#NCI_C33688|"We have two entities from different biomedical ontologies.
+The first one is ""superior oblique extraocular muscle"", which belongs to the broader category ""oblique extraocular muscle""
+The second one is ""Superior_Oblique_Muscle"", which belongs to the broader category ""Oculomotor_Muscle""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001596|http://human.owl#NCI_C52707|"We have two entities from different biomedical ontologies.
+The first one is ""tongue skeletal muscle"", which belongs to the broader category ""Thing""
+The second one is ""Tongue_Muscle"", which belongs to the broader category ""Head_and_Neck_Muscle""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001105|http://human.owl#NCI_C12808|"We have two entities from different biomedical ontologies.
+The first one is ""trochlear IV nerve"", which belongs to the broader category ""cranial nerve""
+The second one is ""Trochlear_Nerve"", which belongs to the broader category ""Cranial_Nerve""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000343|http://human.owl#NCI_C12220|"We have two entities from different biomedical ontologies.
+The first one is ""lip"", which belongs to the broader category ""Thing""
+The second one is ""Lip"", which belongs to the broader category ""Head_and_Neck_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000432|http://human.owl#NCI_C12425|"We have two entities from different biomedical ontologies.
+The first one is ""pharynx"", which belongs to the broader category ""head organ""
+The second one is ""Pharynx"", which belongs to the broader category ""Head_and_Neck_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001388|http://human.owl#NCI_C12864|"We have two entities from different biomedical ontologies.
+The first one is ""distal phalanx of hand"", which belongs to the broader category ""hand phalanx""
+The second one is ""Distal_Phalanx_of_the_Hand"", which belongs to the broader category ""Phalanx_of_the_Hand""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001558|http://human.owl#NCI_C33571|"We have two entities from different biomedical ontologies.
+The first one is ""small intestine serosa"", which belongs to the broader category ""Thing""
+The second one is ""Small_Intestinal_Serosal_Surface"", which belongs to the broader category ""Intestinal_Serosal_Surface""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001189|http://human.owl#NCI_C32804|"We have two entities from different biomedical ontologies.
+The first one is ""inner ear epithelium"", which belongs to the broader category ""Thing""
+The second one is ""Inner_Enamel_Epithelium"", which belongs to the broader category ""Epithelium""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000776|http://human.owl#NCI_C49788|"We have two entities from different biomedical ontologies.
+The first one is ""tonsil capsule"", which belongs to the broader category ""Thing""
+The second one is ""Tonsillar_Capsule"", which belongs to the broader category ""Organ_Capsule""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000995|http://human.owl#NCI_C49141|"We have two entities from different biomedical ontologies.
+The first one is ""cerebellum internal granule cell layer"", which belongs to the broader category ""cerebellum granule cell layer""
+The second one is ""Internal_Granular_Layer_of_the_Cerebellum"", which belongs to the broader category ""Granular_Layer_of_the_Cerebellum""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002267|http://human.owl#NCI_C53039|"We have two entities from different biomedical ontologies.
+The first one is ""adductor group (leg)"", which belongs to the broader category ""skeletal muscle""
+The second one is ""Adductor_Group_of_the_Leg"", which belongs to the broader category ""Muscle""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000730|http://human.owl#NCI_C48257|"We have two entities from different biomedical ontologies.
+The first one is ""thyroid gland parenchyma"", which belongs to the broader category ""Thing""
+The second one is ""Parathyroid_Gland_Parenchymal_Cell"", which belongs to the broader category ""Endocrine_Cell_and_Neuroendocrine_Cell""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001554|http://human.owl#NCI_C49297|"We have two entities from different biomedical ontologies.
+The first one is ""small intestine lamina propria"", which belongs to the broader category ""gastrointestinal system lamina propria""
+The second one is ""Small_Intestinal_Lamina_Propria"", which belongs to the broader category ""Small_Intestinal_Mucosa""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000762|http://human.owl#NCI_C12993|"We have two entities from different biomedical ontologies.
+The first one is ""spleen white pulp"", which belongs to the broader category ""Thing""
+The second one is ""Splenic_White_Pulp"", which belongs to the broader category ""Lymphoid_Tissue""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001734|http://human.owl#NCI_C49220|"We have two entities from different biomedical ontologies.
+The first one is ""efferent duct epithelium"", which belongs to the broader category ""Thing""
+The second one is ""Efferent_Ductule_Epithelium"", which belongs to the broader category ""Epithelium""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000315|http://human.owl#NCI_C52769|"We have two entities from different biomedical ontologies.
+The first one is ""rib"", which belongs to the broader category ""chest bone""
+The second one is ""Rib_10"", which belongs to the broader category ""Rib""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001342|http://human.owl#NCI_C12856|"We have two entities from different biomedical ontologies.
+The first one is ""capitate"", which belongs to the broader category ""distal carpal bone""
+The second one is ""Capitate_Bone"", which belongs to the broader category ""Carpal_Bone""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001665|http://human.owl#NCI_C49479|"We have two entities from different biomedical ontologies.
+The first one is ""renal convoluted tubule"", which belongs to the broader category ""renal tubule""
+The second one is ""Convoluted_Tubule"", which belongs to the broader category ""Renal_Tubule""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001630|http://human.owl#NCI_C12677|"We have two entities from different biomedical ontologies.
+The first one is ""bile duct intrahepatic part"", which belongs to the broader category ""Thing""
+The second one is ""Intrahepatic_Bile_Duct"", which belongs to the broader category ""Bile_Duct""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001669|http://human.owl#NCI_C49479|"We have two entities from different biomedical ontologies.
+The first one is ""proximal convoluted tubule"", which belongs to the broader category ""renal convoluted tubule""
+The second one is ""Convoluted_Tubule"", which belongs to the broader category ""Renal_Tubule""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002497|http://human.owl#NCI_C33309|"We have two entities from different biomedical ontologies.
+The first one is ""liver perisinusoidal space"", which belongs to the broader category ""Thing""
+The second one is ""Perisinusoidal_Space"", which belongs to the broader category ""Hepatic_Tissue""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000751|http://human.owl#NCI_C49260|"We have two entities from different biomedical ontologies.
+The first one is ""lymphatic vessel smooth muscle"", which belongs to the broader category ""Thing""
+The second one is ""Lymphatic_Vessel_Smooth_Muscle_Tissue"", which belongs to the broader category ""Tunica_Media""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000092|http://human.owl#NCI_C12871|"We have two entities from different biomedical ontologies.
+The first one is ""heart left ventricle"", which belongs to the broader category ""heart ventricle""
+The second one is ""Left_Ventricle"", which belongs to the broader category ""Cardiac_Ventricle""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002416|http://human.owl#NCI_C12998|"We have two entities from different biomedical ontologies.
+The first one is ""vertebral column"", which belongs to the broader category ""back bone""
+The second one is ""Vertebral_Column"", which belongs to the broader category ""Skeletal_System_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000025|http://human.owl#NCI_C12671|"We have two entities from different biomedical ontologies.
+The first one is ""forelimb"", which belongs to the broader category ""limb""
+The second one is ""Upper_Extremity"", which belongs to the broader category ""Limb""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000093|http://human.owl#NCI_C12870|"We have two entities from different biomedical ontologies.
+The first one is ""heart right ventricle"", which belongs to the broader category ""heart ventricle""
+The second one is ""Right_Ventricle"", which belongs to the broader category ""Cardiac_Ventricle""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002693|http://human.owl#NCI_C12386|"We have two entities from different biomedical ontologies.
+The first one is ""intestine wall"", which belongs to the broader category ""Thing""
+The second one is ""Small_Intestine"", which belongs to the broader category ""Gastrointestinal_System_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000277|http://human.owl#NCI_C33166|"We have two entities from different biomedical ontologies.
+The first one is ""neural retinal epithelium"", which belongs to the broader category ""Thing""
+The second one is ""Neural_Retina"", which belongs to the broader category ""Retina""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002283|http://human.owl#NCI_C32397|"We have two entities from different biomedical ontologies.
+The first one is ""cricoarytenoid"", which belongs to the broader category ""skeletal muscle""
+The second one is ""Cricoarytenoid_Joint"", which belongs to the broader category ""Joint_By_Site""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001109|http://human.owl#NCI_C12996|"We have two entities from different biomedical ontologies.
+The first one is ""vestibulocochlear VIII nerve"", which belongs to the broader category ""cranial nerve""
+The second one is ""Vestibulocochlear_Nerve"", which belongs to the broader category ""Cranial_Nerve""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002636|http://human.owl#NCI_C12413|"We have two entities from different biomedical ontologies.
+The first one is ""lower urinary tract"", which belongs to the broader category ""Thing""
+The second one is ""Urinary_System"", which belongs to the broader category ""Organ_System""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000279|http://human.owl#NCI_C33470|"We have two entities from different biomedical ontologies.
+The first one is ""pigmented retinal epithelium"", which belongs to the broader category ""Thing""
+The second one is ""Retinal_Pigment_Epithelium"", which belongs to the broader category ""Retina""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000371|http://human.owl#NCI_C32344|"We have two entities from different biomedical ontologies.
+The first one is ""kidney collecting duct"", which belongs to the broader category ""Thing""
+The second one is ""Collecting_Tube"", which belongs to the broader category ""Renal_Tubule""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001710|http://human.owl#NCI_C33400|"We have two entities from different biomedical ontologies.
+The first one is ""ovary primordial follicle"", which belongs to the broader category ""ovary follicle""
+The second one is ""Primordial_Follicle"", which belongs to the broader category ""Ovarian_Follicle""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000049|http://human.owl#NCI_C33107|"We have two entities from different biomedical ontologies.
+The first one is ""metatarsus"", which belongs to the broader category ""Thing""
+The second one is ""Metatarsal_Artery"", which belongs to the broader category ""Dorsalis_Pedis_Artery_Branch""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002695|http://human.owl#NCI_C32931|"We have two entities from different biomedical ontologies.
+The first one is ""large intestine wall"", which belongs to the broader category ""Thing""
+The second one is ""Large_Intestinal_Wall_Tissue"", which belongs to the broader category ""Normal_Tissue""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001207|http://human.owl#NCI_C33695|"We have two entities from different biomedical ontologies.
+The first one is ""anterior semicircular canal"", which belongs to the broader category ""osseus semicircular canal""
+The second one is ""Superior_Semicircular_Canal"", which belongs to the broader category ""Semicircular_Canal""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000993|http://human.owl#NCI_C49138|"We have two entities from different biomedical ontologies.
+The first one is ""cerebellum granule cell layer"", which belongs to the broader category ""cerebellar layer""
+The second one is ""Granular_Layer_of_the_Cerebellum"", which belongs to the broader category ""Cortical_Cell_Layer_of_the_Cerebellum""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001584|http://human.owl#NCI_C33249|"We have two entities from different biomedical ontologies.
+The first one is ""palatine gland"", which belongs to the broader category ""minor salivary gland""
+The second one is ""Palatine_Salivary_Gland"", which belongs to the broader category ""Minor_Salivary_Gland""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002151|http://human.owl#NCI_C52697|"We have two entities from different biomedical ontologies.
+The first one is ""right internal spermatic vein"", which belongs to the broader category ""internal spermatic vein""
+The second one is ""Right_Spermatic_Vein"", which belongs to the broader category ""Spermatic_Vein""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001542|http://human.owl#NCI_C12268|"We have two entities from different biomedical ontologies.
+The first one is ""descending colon"", which belongs to the broader category ""colon""
+The second one is ""Descending_Colon"", which belongs to the broader category ""Gastrointestinal_System_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002198|http://human.owl#NCI_C33343|"We have two entities from different biomedical ontologies.
+The first one is ""portal vein"", which belongs to the broader category ""vein""
+The second one is ""Portal_Vein"", which belongs to the broader category ""Deep_Vein""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000188|http://human.owl#NCI_C12446|"We have two entities from different biomedical ontologies.
+The first one is ""corpus callosum"", which belongs to the broader category ""intercerebral commissure""
+The second one is ""Corpus_Callosum"", which belongs to the broader category ""Cerebral_White_Matter""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001036|http://human.owl#NCI_C12934|"We have two entities from different biomedical ontologies.
+The first one is ""dorsal motor nucleus of vagus X nerve"", which belongs to the broader category ""brainstem nucleus""
+The second one is ""Dorsal_Motor_Nucleus"", which belongs to the broader category ""Brain_Nucleus""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002464|http://human.owl#NCI_C12307|"We have two entities from different biomedical ontologies.
+The first one is ""labium"", which belongs to the broader category ""Thing""
+The second one is ""Labium_Minus"", which belongs to the broader category ""Labium""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002139|http://human.owl#NCI_C32847|"We have two entities from different biomedical ontologies.
+The first one is ""hypogastric vein"", which belongs to the broader category ""vein""
+The second one is ""Internal_Iliac_Vein"", which belongs to the broader category ""Iliac_Vein""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000753|http://human.owl#NCI_C33598|"We have two entities from different biomedical ontologies.
+The first one is ""spleen capsule"", which belongs to the broader category ""Thing""
+The second one is ""Splenic_Capsule"", which belongs to the broader category ""Organ_Capsule""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000720|http://human.owl#NCI_C12945|"We have two entities from different biomedical ontologies.
+The first one is ""neuroendocrine gland"", which belongs to the broader category ""endocrine gland""
+The second one is ""Neuroendocrine_System"", which belongs to the broader category ""Other_Anatomic_Concept""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000050|http://human.owl#NCI_C33734|"We have two entities from different biomedical ontologies.
+The first one is ""tarsus"", which belongs to the broader category ""Thing""
+The second one is ""Tarsal_Artery"", which belongs to the broader category ""Dorsalis_Pedis_Artery_Branch""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001131|http://human.owl#NCI_C49798|"We have two entities from different biomedical ontologies.
+The first one is ""spinal cord arachnoid mater"", which belongs to the broader category ""arachnoid mater""
+The second one is ""Spinal_Cord_Arachnoid_Membrane"", which belongs to the broader category ""Arachnoid_Membrane""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002555|http://human.owl#NCI_C12854|"We have two entities from different biomedical ontologies.
+The first one is ""scaphoid"", which belongs to the broader category ""Thing""
+The second one is ""Scaphoid_Bone"", which belongs to the broader category ""Carpal_Bone""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000340|http://human.owl#NCI_C12388|"We have two entities from different biomedical ontologies.
+The first one is ""jejunum"", which belongs to the broader category ""small intestine""
+The second one is ""Jejunum"", which belongs to the broader category ""Gastrointestinal_System_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001087|http://human.owl#NCI_C12665|"We have two entities from different biomedical ontologies.
+The first one is ""abducens VI nerve"", which belongs to the broader category ""cranial nerve""
+The second one is ""Abducens_Nerve"", which belongs to the broader category ""Cranial_Nerve""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001854|http://human.owl#NCI_C49302|"We have two entities from different biomedical ontologies.
+The first one is ""trachea basement membrane"", which belongs to the broader category ""trachea non-cartilage connective tissue""
+The second one is ""Trachea_Basement_Membrane"", which belongs to the broader category ""Basement_Membrane""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000996|http://human.owl#NCI_C49139|"We have two entities from different biomedical ontologies.
+The first one is ""cerebellum molecular cell layer"", which belongs to the broader category ""cerebellar layer""
+The second one is ""Molecular_Layer_of_the_Cerebellum"", which belongs to the broader category ""Cortical_Cell_Layer_of_the_Cerebellum""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000795|http://human.owl#NCI_C12370|"We have two entities from different biomedical ontologies.
+The first one is ""mammary gland smooth muscle"", which belongs to the broader category ""Thing""
+The second one is ""Mammary_Gland_Tissue"", which belongs to the broader category ""Normal_Tissue""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002288|http://human.owl#NCI_C32462|"We have two entities from different biomedical ontologies.
+The first one is ""digastric"", which belongs to the broader category ""skeletal muscle""
+The second one is ""Digastric_Muscle"", which belongs to the broader category ""Neck_Muscle""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001983|http://human.owl#NCI_C33581|"We have two entities from different biomedical ontologies.
+The first one is ""internal spermatic artery"", which belongs to the broader category ""artery""
+The second one is ""Spermatic_Artery"", which belongs to the broader category ""Abdominal_Aorta_Branch""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002026|http://human.owl#NCI_C33693|"We have two entities from different biomedical ontologies.
+The first one is ""profunda brachii artery"", which belongs to the broader category ""artery""
+The second one is ""Superior_Profunda_Artery"", which belongs to the broader category ""Brachial_Artery_Branch""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000007|http://human.owl#NCI_C12429|"We have two entities from different biomedical ontologies.
+The first one is ""limb"", which belongs to the broader category ""anatomic region""
+The second one is ""Limb"", which belongs to the broader category ""Body_Region""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002284|http://human.owl#NCI_C32404|"We have two entities from different biomedical ontologies.
+The first one is ""cricothyroid"", which belongs to the broader category ""skeletal muscle""
+The second one is ""Cricothyroid_Muscle"", which belongs to the broader category ""Laryngeal_Muscle""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000099|http://human.owl#NCI_C13005|"We have two entities from different biomedical ontologies.
+The first one is ""pericardium"", which belongs to the broader category ""cavity lining""
+The second one is ""Pericardium"", which belongs to the broader category ""Membrane""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002150|http://human.owl#NCI_C52696|"We have two entities from different biomedical ontologies.
+The first one is ""left internal spermatic vein"", which belongs to the broader category ""internal spermatic vein""
+The second one is ""Left_Spermatic_Vein"", which belongs to the broader category ""Spermatic_Vein""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002280|http://human.owl#NCI_C33672|"We have two entities from different biomedical ontologies.
+The first one is ""constrictor muscle of pharynx superior"", which belongs to the broader category ""constrictor muscle of pharynx""
+The second one is ""Superior_Constrictor_Muscle"", which belongs to the broader category ""Pharyngeal_Muscle""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000162|http://human.owl#NCI_C32711|"We have two entities from different biomedical ontologies.
+The first one is ""hair root sheath"", which belongs to the broader category ""Thing""
+The second one is ""Hair_Root"", which belongs to the broader category ""Hair_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000339|http://human.owl#NCI_C12387|"We have two entities from different biomedical ontologies.
+The first one is ""ileum"", which belongs to the broader category ""small intestine""
+The second one is ""Ileum"", which belongs to the broader category ""Gastrointestinal_System_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001748|http://human.owl#NCI_C49296|"We have two entities from different biomedical ontologies.
+The first one is ""seminiferous tubule epithelium"", which belongs to the broader category ""Thing""
+The second one is ""Seminiferous_Epithelium"", which belongs to the broader category ""Stratified_Epithelium""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001720|http://human.owl#NCI_C32415|"We have two entities from different biomedical ontologies.
+The first one is ""cuboidal oviduct epithelium"", which belongs to the broader category ""oviduct epithelium""
+The second one is ""Cuboidal_Epithelium"", which belongs to the broader category ""Glandular_Epithelium""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000773|http://human.owl#NCI_C38516|"We have two entities from different biomedical ontologies.
+The first one is ""lingual tonsillar tissue"", which belongs to the broader category ""tonsil""
+The second one is ""Tonsilar_Tissue"", which belongs to the broader category ""Tonsil_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000902|http://human.owl#NCI_C33142|"We have two entities from different biomedical ontologies.
+The first one is ""cortical layer VI"", which belongs to the broader category ""neocortex layer""
+The second one is ""Multiform_Cell_Layer"", which belongs to the broader category ""Cortical_Cell_Layer_of_the_Cerebral_Cortex""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001630|http://human.owl#NCI_C32573|"We have two entities from different biomedical ontologies.
+The first one is ""bile duct intrahepatic part"", which belongs to the broader category ""Thing""
+The second one is ""Extrahepatic_Bile_Duct"", which belongs to the broader category ""Bile_Duct""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000037|http://human.owl#NCI_C32712|"We have two entities from different biomedical ontologies.
+The first one is ""hand"", which belongs to the broader category ""autopod""
+The second one is ""Hand"", which belongs to the broader category ""Upper_Extremity_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001459|http://human.owl#NCI_C12366|"We have two entities from different biomedical ontologies.
+The first one is ""bone"", which belongs to the broader category ""Thing""
+The second one is ""Bone"", which belongs to the broader category ""Skeletal_System_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001524|http://human.owl#NCI_C12736|"We have two entities from different biomedical ontologies.
+The first one is ""bowel"", which belongs to the broader category ""Thing""
+The second one is ""Intestine"", which belongs to the broader category ""Organ""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001711|http://human.owl#NCI_C32676|"We have two entities from different biomedical ontologies.
+The first one is ""ovary germinal epithelium"", which belongs to the broader category ""Thing""
+The second one is ""Germinal_Epithelium"", which belongs to the broader category ""Simple_Epithelium""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001633|http://human.owl#NCI_C48940|"We have two entities from different biomedical ontologies.
+The first one is ""gall bladder lamina propria"", which belongs to the broader category ""Thing""
+The second one is ""Bladder_Lamina_Propria"", which belongs to the broader category ""Lamina_Propria""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002314|http://human.owl#NCI_C52703|"We have two entities from different biomedical ontologies.
+The first one is ""dorsal hand interosseus muscle"", which belongs to the broader category ""hand interosseous muscle""
+The second one is ""Dorsal_Hand_Interosseous_Muscle"", which belongs to the broader category ""Hand_Interosseous_Muscle""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002509|http://human.owl#NCI_C13234|"We have two entities from different biomedical ontologies.
+The first one is ""feces"", which belongs to the broader category ""body fluid/substance""
+The second one is ""Feces"", which belongs to the broader category ""Body_Fluid_or_Substance""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002743|http://human.owl#NCI_C33356|"We have two entities from different biomedical ontologies.
+The first one is ""posterior commissure"", which belongs to the broader category ""brainstem white matter""
+The second one is ""Posterior_Commissure"", which belongs to the broader category ""Brain_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000715|http://human.owl#NCI_C49321|"We have two entities from different biomedical ontologies.
+The first one is ""venous system smooth muscle"", which belongs to the broader category ""Thing""
+The second one is ""Venous_System_Smooth_Muscle_Tissue"", which belongs to the broader category ""Tunica_Media""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000050|http://human.owl#NCI_C33737|"We have two entities from different biomedical ontologies.
+The first one is ""tarsus"", which belongs to the broader category ""Thing""
+The second one is ""Tarsus_Bone"", which belongs to the broader category ""Short_Bone""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002602|http://human.owl#NCI_C32572|"We have two entities from different biomedical ontologies.
+The first one is ""extraglomerular mesangium"", which belongs to the broader category ""Thing""
+The second one is ""Extraglomerular_Mesangial_Cell"", which belongs to the broader category ""Mesangial_Cell""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002667|http://human.owl#NCI_C38671|"We have two entities from different biomedical ontologies.
+The first one is ""hilar part of right hepatic duct"", which belongs to the broader category ""Thing""
+The second one is ""Hilar_Portion_of_the_Right_Hepatic_Duct"", which belongs to the broader category ""Hilar_Portion_of_the_Hepatic_Duct""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001310|http://human.owl#NCI_C32652|"We have two entities from different biomedical ontologies.
+The first one is ""retina ganglion cell layer"", which belongs to the broader category ""retina layer""
+The second one is ""Ganglion_Cell_Layer"", which belongs to the broader category ""Eye_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001288|http://human.owl#NCI_C32463|"We have two entities from different biomedical ontologies.
+The first one is ""dilatator pupillae"", which belongs to the broader category ""iris muscle""
+The second one is ""Dilator_Pupillae_Muscle"", which belongs to the broader category ""Head_and_Neck_Muscle""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002515|http://human.owl#NCI_C32875|"We have two entities from different biomedical ontologies.
+The first one is ""intestine secretion"", which belongs to the broader category ""digestive system fluid/secretion""
+The second one is ""Intestinal_Secretion"", which belongs to the broader category ""Gastrointestinal_Fluid_or_Secretion""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001670|http://human.owl#NCI_C33417|"We have two entities from different biomedical ontologies.
+The first one is ""proximal convoluted tubule neck"", which belongs to the broader category ""Thing""
+The second one is ""Proximal_Convoluted_Tube"", which belongs to the broader category ""Convoluted_Tubule""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000433|http://human.owl#NCI_C12469|"We have two entities from different biomedical ontologies.
+The first one is ""pleura"", which belongs to the broader category ""cavity lining""
+The second one is ""Pleural_Tissue"", which belongs to the broader category ""Membrane""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000913|http://human.owl#NCI_C12355|"We have two entities from different biomedical ontologies.
+The first one is ""occipital cortex"", which belongs to the broader category ""neocortex region""
+The second one is ""Occipital_Lobe"", which belongs to the broader category ""Brain_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002666|http://human.owl#NCI_C38670|"We have two entities from different biomedical ontologies.
+The first one is ""hilar part of left hepatic duct"", which belongs to the broader category ""Thing""
+The second one is ""Hilar_Portion_of_the_Left_Hepatic_Duct"", which belongs to the broader category ""Hilar_Portion_of_the_Hepatic_Duct""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002283|http://human.owl#NCI_C32398|"We have two entities from different biomedical ontologies.
+The first one is ""cricoarytenoid"", which belongs to the broader category ""skeletal muscle""
+The second one is ""Cricoarytenoid_Muscle"", which belongs to the broader category ""Laryngeal_Muscle""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002684|http://human.owl#NCI_C33149|"We have two entities from different biomedical ontologies.
+The first one is ""stomach muscularis mucosa"", which belongs to the broader category ""Thing""
+The second one is ""Muscularis_Mucosa"", which belongs to the broader category ""Lamina_Propria""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001651|http://human.owl#NCI_C32387|"We have two entities from different biomedical ontologies.
+The first one is ""renal column"", which belongs to the broader category ""Thing""
+The second one is ""Cortical_Column"", which belongs to the broader category ""Kidney_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002269|http://human.owl#NCI_C32200|"We have two entities from different biomedical ontologies.
+The first one is ""biceps brachii"", which belongs to the broader category ""skeletal muscle""
+The second one is ""Biceps"", which belongs to the broader category ""Muscle""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002284|http://human.owl#NCI_C32402|"We have two entities from different biomedical ontologies.
+The first one is ""cricothyroid"", which belongs to the broader category ""skeletal muscle""
+The second one is ""Cricothyroid_Joint"", which belongs to the broader category ""Joint_By_Site""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000710|http://human.owl#NCI_C32213|"We have two entities from different biomedical ontologies.
+The first one is ""blood vessel smooth muscle"", which belongs to the broader category ""Thing""
+The second one is ""Blood_Vessel_Tissue"", which belongs to the broader category ""Soft_Tissue""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000774|http://human.owl#NCI_C33318|"We have two entities from different biomedical ontologies.
+The first one is ""nasopharyngeal tonsil"", which belongs to the broader category ""tonsil""
+The second one is ""Pharyngeal_Tonsil"", which belongs to the broader category ""Tonsil""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000185|http://human.owl#NCI_C12443|"We have two entities from different biomedical ontologies.
+The first one is ""cerebral cortex"", which belongs to the broader category ""Thing""
+The second one is ""Cortex"", which belongs to the broader category ""Brain_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001541|http://human.owl#NCI_C12265|"We have two entities from different biomedical ontologies.
+The first one is ""ascending colon"", which belongs to the broader category ""colon""
+The second one is ""Ascending_Colon"", which belongs to the broader category ""Gastrointestinal_System_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000065|http://human.owl#NCI_C12685|"We have two entities from different biomedical ontologies.
+The first one is ""capillary"", which belongs to the broader category ""blood vessel""
+The second one is ""Capillary"", which belongs to the broader category ""Cardiovascular_System_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001669|http://human.owl#NCI_C33417|"We have two entities from different biomedical ontologies.
+The first one is ""proximal convoluted tubule"", which belongs to the broader category ""renal convoluted tubule""
+The second one is ""Proximal_Convoluted_Tube"", which belongs to the broader category ""Convoluted_Tubule""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000075|http://human.owl#NCI_C12868|"We have two entities from different biomedical ontologies.
+The first one is ""heart right atrium"", which belongs to the broader category ""heart atrium""
+The second one is ""Right_Atrium"", which belongs to the broader category ""Cardiac_Atrium""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000337|http://human.owl#NCI_C12386|"We have two entities from different biomedical ontologies.
+The first one is ""small intestine"", which belongs to the broader category ""Thing""
+The second one is ""Small_Intestine"", which belongs to the broader category ""Gastrointestinal_System_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000475|http://human.owl#NCI_C32124|"We have two entities from different biomedical ontologies.
+The first one is ""arch of aorta"", which belongs to the broader category ""Thing""
+The second one is ""Aortic_Arch_Branch"", which belongs to the broader category ""Artery""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002696|http://human.owl#NCI_C33573|"We have two entities from different biomedical ontologies.
+The first one is ""small intestine wall"", which belongs to the broader category ""Thing""
+The second one is ""Small_Intestinal_Wall_Tissue"", which belongs to the broader category ""Normal_Tissue""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002665|http://human.owl#NCI_C43630|"We have two entities from different biomedical ontologies.
+The first one is ""hilar part of hepatic duct"", which belongs to the broader category ""Thing""
+The second one is ""Hilar_Portion_of_the_Hepatic_Duct"", which belongs to the broader category ""Extrahepatic_Bile_Duct""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001351|http://human.owl#NCI_C52799|"We have two entities from different biomedical ontologies.
+The first one is ""talus"", which belongs to the broader category ""tarsal bone""
+The second one is ""Talus"", which belongs to the broader category ""Tarsal_Bone""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002033|http://human.owl#NCI_C12774|"We have two entities from different biomedical ontologies.
+The first one is ""pulmonary trunk"", which belongs to the broader category ""artery""
+The second one is ""Pulmonary_Artery"", which belongs to the broader category ""Artery""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001014|http://human.owl#NCI_C12898|"We have two entities from different biomedical ontologies.
+The first one is ""facial VII nucleus"", which belongs to the broader category ""brainstem nucleus""
+The second one is ""Facial_Nerve_Nucleus"", which belongs to the broader category ""Brain_Nucleus""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000305|http://human.owl#NCI_C25774|"We have two entities from different biomedical ontologies.
+The first one is ""foot phalanx"", which belongs to the broader category ""phalanx""
+The second one is ""Phalanx_of_the_Foot"", which belongs to the broader category ""Bone_of_the_Lower_Extremity""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001281|http://human.owl#NCI_C33068|"We have two entities from different biomedical ontologies.
+The first one is ""medial rectus extraocular muscle"", which belongs to the broader category ""rectus extraocular muscle""
+The second one is ""Medial_Rectus_Muscle"", which belongs to the broader category ""Oculomotor_Muscle""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001091|http://human.owl#NCI_C12714|"We have two entities from different biomedical ontologies.
+The first one is ""facial VII nerve"", which belongs to the broader category ""cranial nerve""
+The second one is ""Facial_Nerve"", which belongs to the broader category ""Cranial_Nerve""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000898|http://human.owl#NCI_C32557|"We have two entities from different biomedical ontologies.
+The first one is ""cortical layer II"", which belongs to the broader category ""neocortex layer""
+The second one is ""External_Granular_Layer"", which belongs to the broader category ""Cortical_Cell_Layer_of_the_Cerebral_Cortex""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000124|http://human.owl#NCI_C12272|"We have two entities from different biomedical ontologies.
+The first one is ""pancreatic duct"", which belongs to the broader category ""Thing""
+The second one is ""Pancreatic_Duct"", which belongs to the broader category ""Duct""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002343|http://human.owl#NCI_C13074|"We have two entities from different biomedical ontologies.
+The first one is ""masseter"", which belongs to the broader category ""skeletal muscle""
+The second one is ""Masseter_Muscle"", which belongs to the broader category ""Muscle_of_the_Mastication""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001778|http://human.owl#NCI_C49252|"We have two entities from different biomedical ontologies.
+The first one is ""left lung bronchiole"", which belongs to the broader category ""Thing""
+The second one is ""Left_Lung_Bronchiole"", which belongs to the broader category ""Bronchiole""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001410|http://human.owl#NCI_C12782|"We have two entities from different biomedical ontologies.
+The first one is ""rib 10"", which belongs to the broader category ""rib""
+The second one is ""Rib"", which belongs to the broader category ""Flat_Bone""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000855|http://human.owl#NCI_C33281|"We have two entities from different biomedical ontologies.
+The first one is ""pars intermedia"", which belongs to the broader category ""Thing""
+The second one is ""Pars_Media"", which belongs to the broader category ""Ear_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002672|http://human.owl#NCI_C33602|"We have two entities from different biomedical ontologies.
+The first one is ""spleen lymphoid follicle"", which belongs to the broader category ""Thing""
+The second one is ""Splenic_Lymphoid_Follicle"", which belongs to the broader category ""Lymphoid_Follicle""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001905|http://human.owl#NCI_C48821|"We have two entities from different biomedical ontologies.
+The first one is ""jaw"", which belongs to the broader category ""head organ""
+The second one is ""Jaw"", which belongs to the broader category ""Irregular_Bone""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002740|http://human.owl#NCI_C33402|"We have two entities from different biomedical ontologies.
+The first one is ""trigeminal V principal sensory nucleus"", which belongs to the broader category ""trigeminal V sensory nucleus""
+The second one is ""Principal_Sensory_Nucleus_of_the_Trigeminal_Nerve"", which belongs to the broader category ""Brain_Nucleus""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000293|http://human.owl#NCI_C33291|"We have two entities from different biomedical ontologies.
+The first one is ""pelvic girdle bone"", which belongs to the broader category ""girdle bone""
+The second one is ""Pelvic_Girdle"", which belongs to the broader category ""Lower_Extremity_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002659|http://human.owl#NCI_C32573|"We have two entities from different biomedical ontologies.
+The first one is ""bile duct extrahepatic part"", which belongs to the broader category ""Thing""
+The second one is ""Extrahepatic_Bile_Duct"", which belongs to the broader category ""Bile_Duct""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000097|http://human.owl#NCI_C45804|"We have two entities from different biomedical ontologies.
+The first one is ""sinoatrial node"", which belongs to the broader category ""Thing""
+The second one is ""Node"", which belongs to the broader category ""Other_Anatomic_Concept""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001828|http://human.owl#NCI_C32824|"We have two entities from different biomedical ontologies.
+The first one is ""respiratory system muscle"", which belongs to the broader category ""Thing""
+The second one is ""Intercostal_Muscle"", which belongs to the broader category ""Muscle""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001279|http://human.owl#NCI_C32790|"We have two entities from different biomedical ontologies.
+The first one is ""inferior rectus extraocular muscle"", which belongs to the broader category ""rectus extraocular muscle""
+The second one is ""Inferior_Rectus_Muscle"", which belongs to the broader category ""Oculomotor_Muscle""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001343|http://human.owl#NCI_C12860|"We have two entities from different biomedical ontologies.
+The first one is ""hamate"", which belongs to the broader category ""distal carpal bone""
+The second one is ""Hamate_Bone"", which belongs to the broader category ""Carpal_Bone""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000874|http://human.owl#NCI_C33260|"We have two entities from different biomedical ontologies.
+The first one is ""parafascicular nucleus"", which belongs to the broader category ""Thing""
+The second one is ""Parafascicular_Nucleus_of_the_Thalamus"", which belongs to the broader category ""Brain_Nucleus""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000854|http://human.owl#NCI_C32090|"We have two entities from different biomedical ontologies.
+The first one is ""pars anterior"", which belongs to the broader category ""Thing""
+The second one is ""Anterior_Fossa"", which belongs to the broader category ""Fossa""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000344|http://human.owl#NCI_C49595|"We have two entities from different biomedical ontologies.
+The first one is ""oral epithelium"", which belongs to the broader category ""gastrointestinal system epithelium""
+The second one is ""Oral_Cavity_Epithelium"", which belongs to the broader category ""Stratified_Squamous_Epithelium""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000414|http://human.owl#NCI_C12420|"We have two entities from different biomedical ontologies.
+The first one is ""larynx"", which belongs to the broader category ""neck organ""
+The second one is ""Larynx"", which belongs to the broader category ""Head_and_Neck_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001612|http://human.owl#NCI_C12257|"We have two entities from different biomedical ontologies.
+The first one is ""stomach fundus"", which belongs to the broader category ""stomach region""
+The second one is ""Fundus_of_the_Stomach"", which belongs to the broader category ""Gastrointestinal_System_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000015|http://human.owl#NCI_C12435|"We have two entities from different biomedical ontologies.
+The first one is ""muscle"", which belongs to the broader category ""Thing""
+The second one is ""Muscle_Tissue"", which belongs to the broader category ""Soft_Tissue""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000324|http://human.owl#NCI_C43612|"We have two entities from different biomedical ontologies.
+The first one is ""hepatobiliary system"", which belongs to the broader category ""visceral organ system""
+The second one is ""Hepatobiliary_System"", which belongs to the broader category ""Gastrointestinal_System_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000812|http://human.owl#NCI_C49767|"We have two entities from different biomedical ontologies.
+The first one is ""brain marginal zone"", which belongs to the broader category ""Thing""
+The second one is ""Marginal_Zone"", which belongs to the broader category ""Lymphoid_Tissue""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001651|http://human.owl#NCI_C32067|"We have two entities from different biomedical ontologies.
+The first one is ""renal column"", which belongs to the broader category ""Thing""
+The second one is ""Anal_Column"", which belongs to the broader category ""Gastrointestinal_System_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000202|http://human.owl#NCI_C33866|"We have two entities from different biomedical ontologies.
+The first one is ""cerebellar vermis"", which belongs to the broader category ""Thing""
+The second one is ""Vermis"", which belongs to the broader category ""Brain_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001970|http://human.owl#NCI_C32760|"We have two entities from different biomedical ontologies.
+The first one is ""ileocolic artery"", which belongs to the broader category ""artery""
+The second one is ""Ileo-colic_Artery"", which belongs to the broader category ""Superior_Mesenteric_Artery_Branch""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001305|http://human.owl#NCI_C32311|"We have two entities from different biomedical ontologies.
+The first one is ""choroid fissure"", which belongs to the broader category ""Thing""
+The second one is ""Choroidal_Fissure"", which belongs to the broader category ""Cerebral_Fissure""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001094|http://human.owl#NCI_C12732|"We have two entities from different biomedical ontologies.
+The first one is ""hypoglossal XII nerve"", which belongs to the broader category ""cranial nerve""
+The second one is ""Hypoglossal_Nerve"", which belongs to the broader category ""Cranial_Nerve""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000372|http://human.owl#NCI_C12739|"We have two entities from different biomedical ontologies.
+The first one is ""kidney cortex"", which belongs to the broader category ""Thing""
+The second one is ""Renal_Cortex"", which belongs to the broader category ""Renal_Tissue""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002670|http://human.owl#NCI_C33601|"We have two entities from different biomedical ontologies.
+The first one is ""spleen hilum"", which belongs to the broader category ""Thing""
+The second one is ""Splenic_Hilum"", which belongs to the broader category ""Spleen_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001737|http://human.owl#NCI_C13103|"We have two entities from different biomedical ontologies.
+The first one is ""prostate gland epithelium"", which belongs to the broader category ""Thing""
+The second one is ""Prostatic_Epithelium"", which belongs to the broader category ""Epithelium""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000732|http://human.owl#NCI_C49599|"We have two entities from different biomedical ontologies.
+The first one is ""peyer's patch follicle"", which belongs to the broader category ""Thing""
+The second one is ""Peyer_s_Patch_Lymphoid_Follicle"", which belongs to the broader category ""Lymphoid_Follicle""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002734|http://human.owl#NCI_C32516|"We have two entities from different biomedical ontologies.
+The first one is ""endometrium stroma"", which belongs to the broader category ""Thing""
+The second one is ""Endometrial_Stroma"", which belongs to the broader category ""Female_Reproductive_System_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000758|http://human.owl#NCI_C33607|"We have two entities from different biomedical ontologies.
+The first one is ""spleen trabeculum"", which belongs to the broader category ""Thing""
+The second one is ""Splenic_Trabecula"", which belongs to the broader category ""Splenic_Tissue""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002058|http://human.owl#NCI_C52734|"We have two entities from different biomedical ontologies.
+The first one is ""sural artery"", which belongs to the broader category ""artery""
+The second one is ""External_Sural_Artery"", which belongs to the broader category ""Popliteal_Artery_Branch""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002722|http://human.owl#NCI_C32086|"We have two entities from different biomedical ontologies.
+The first one is ""anterior commissure"", which belongs to the broader category ""intercerebral commissure""
+The second one is ""Anterior_Commissure"", which belongs to the broader category ""Brain_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001323|http://human.owl#NCI_C32856|"We have two entities from different biomedical ontologies.
+The first one is ""internal naris"", which belongs to the broader category ""naris""
+The second one is ""Internal_Nare"", which belongs to the broader category ""Organ_of_Special_Sense_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001708|http://human.owl#NCI_C32702|"We have two entities from different biomedical ontologies.
+The first one is ""ovary growing follicle"", which belongs to the broader category ""ovary follicle""
+The second one is ""Growing_Follicle"", which belongs to the broader category ""Ovarian_Follicle""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000708|http://human.owl#NCI_C49195|"We have two entities from different biomedical ontologies.
+The first one is ""artery smooth muscle"", which belongs to the broader category ""arterial system smooth muscle""
+The second one is ""Artery_Smooth_Muscle_Tissue"", which belongs to the broader category ""Tunica_Media""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000254|http://human.owl#NCI_C32164|"We have two entities from different biomedical ontologies.
+The first one is ""auditory bone"", which belongs to the broader category ""Thing""
+The second one is ""Auditory_Ossicle"", which belongs to the broader category ""Ear_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000376|http://human.owl#NCI_C33456|"We have two entities from different biomedical ontologies.
+The first one is ""renal corpuscle"", which belongs to the broader category ""Thing""
+The second one is ""Renal_Corpuscle"", which belongs to the broader category ""Kidney_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000368|http://human.owl#NCI_C12415|"We have two entities from different biomedical ontologies.
+The first one is ""kidney"", which belongs to the broader category ""abdomen organ""
+The second one is ""Kidney"", which belongs to the broader category ""Organ""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001514|http://human.owl#NCI_C49577|"We have two entities from different biomedical ontologies.
+The first one is ""joint of vertebral body"", which belongs to the broader category ""joint""
+The second one is ""Vertebral_Joint"", which belongs to the broader category ""Joint_By_Site""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001513|http://human.owl#NCI_C49577|"We have two entities from different biomedical ontologies.
+The first one is ""joint of vertebral arch"", which belongs to the broader category ""joint""
+The second one is ""Vertebral_Joint"", which belongs to the broader category ""Joint_By_Site""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001282|http://human.owl#NCI_C33694|"We have two entities from different biomedical ontologies.
+The first one is ""superior rectus extraocular muscle"", which belongs to the broader category ""rectus extraocular muscle""
+The second one is ""Superior_Rectus_Muscle"", which belongs to the broader category ""Oculomotor_Muscle""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001130|http://human.owl#NCI_C12350|"We have two entities from different biomedical ontologies.
+The first one is ""spinal cord meninges"", which belongs to the broader category ""meninges""
+The second one is ""Spinal_Meninges"", which belongs to the broader category ""Meninges""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002536|http://human.owl#NCI_C13278|"We have two entities from different biomedical ontologies.
+The first one is ""sputum"", which belongs to the broader category ""respiratory system fluid/secretion""
+The second one is ""Sputum"", which belongs to the broader category ""Body_Fluid_or_Substance""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000358|http://human.owl#NCI_C12392|"We have two entities from different biomedical ontologies.
+The first one is ""liver"", which belongs to the broader category ""abdomen organ""
+The second one is ""Liver"", which belongs to the broader category ""Organ""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002552|http://human.owl#NCI_C13257|"We have two entities from different biomedical ontologies.
+The first one is ""mammary gland milk"", which belongs to the broader category ""mammary gland fluid/secretion""
+The second one is ""Breast_Milk"", which belongs to the broader category ""Breast_Fluid_or_Secretion""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002625|http://human.owl#NCI_C32456|"We have two entities from different biomedical ontologies.
+The first one is ""loop of henle thin descending limb"", which belongs to the broader category ""Thing""
+The second one is ""Descending_Limb_of_the_Henle_s_Loop"", which belongs to the broader category ""Renal_Tubule""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001544|http://human.owl#NCI_C32924|"We have two entities from different biomedical ontologies.
+The first one is ""large intestine crypt of lieberkuhn"", which belongs to the broader category ""crypt of lieberkuhn""
+The second one is ""Large_Intestinal_Crypt_of_the_Lieberkuhn"", which belongs to the broader category ""Crypts_of_the_Lieberkuhn""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000706|http://human.owl#NCI_C49193|"We have two entities from different biomedical ontologies.
+The first one is ""arteriole smooth muscle"", which belongs to the broader category ""arterial system smooth muscle""
+The second one is ""Arteriole_Smooth_Muscle_Tissue"", which belongs to the broader category ""Tunica_Media""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001088|http://human.owl#NCI_C32041|"We have two entities from different biomedical ontologies.
+The first one is ""accessory XI nerve"", which belongs to the broader category ""cranial nerve""
+The second one is ""Accessory_Nerve"", which belongs to the broader category ""Cranial_Nerve""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001587|http://human.owl#NCI_C40411|"We have two entities from different biomedical ontologies.
+The first one is ""salivary gland epithelium"", which belongs to the broader category ""Thing""
+The second one is ""Salivary_Gland_Myoepithelial_Cell"", which belongs to the broader category ""Myoepithelial_Cell""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002149|http://human.owl#NCI_C53050|"We have two entities from different biomedical ontologies.
+The first one is ""internal spermatic vein"", which belongs to the broader category ""vein""
+The second one is ""Spermatic_Vein"", which belongs to the broader category ""Vein""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001341|http://human.owl#NCI_C12859|"We have two entities from different biomedical ontologies.
+The first one is ""trapezoid"", which belongs to the broader category ""distal carpal bone""
+The second one is ""Trapezoid_Bone"", which belongs to the broader category ""Carpal_Bone""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002452|http://human.owl#NCI_C33521|"We have two entities from different biomedical ontologies.
+The first one is ""eye sebaceous gland"", which belongs to the broader category ""eye skin gland""
+The second one is ""Sebaceous_Gland_of_the_Eyelash"", which belongs to the broader category ""Sebaceous_Gland""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002490|http://human.owl#NCI_C32207|"We have two entities from different biomedical ontologies.
+The first one is ""urinary bladder muscularis mucosa"", which belongs to the broader category ""Thing""
+The second one is ""Bladder_Muscularis_Mucosa"", which belongs to the broader category ""Bladder_Lamina_Propria""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000215|http://human.owl#NCI_C12700|"We have two entities from different biomedical ontologies.
+The first one is ""cranial nerve"", which belongs to the broader category ""nerve""
+The second one is ""Cranial_Nerve"", which belongs to the broader category ""Nerve""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002488|http://human.owl#NCI_C33273|"We have two entities from different biomedical ontologies.
+The first one is ""parietal pleura"", which belongs to the broader category ""Thing""
+The second one is ""Parietal_Pleura"", which belongs to the broader category ""Pleural_Tissue""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000838|http://human.owl#NCI_C32480|"We have two entities from different biomedical ontologies.
+The first one is ""dorsomedial hypothalamic nucleus"", which belongs to the broader category ""Thing""
+The second one is ""Dorsomedial_Nucleus_of_the_Thalamus"", which belongs to the broader category ""Brain_Nucleus""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000151|http://human.owl#NCI_C12470|"We have two entities from different biomedical ontologies.
+The first one is ""skin"", which belongs to the broader category ""Thing""
+The second one is ""Skin"", which belongs to the broader category ""Organ""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001284|http://human.owl#NCI_C33823|"We have two entities from different biomedical ontologies.
+The first one is ""tunica vasculosa plexus"", which belongs to the broader category ""hyaloid vascular plexus""
+The second one is ""Tunica_Vasculosa"", which belongs to the broader category ""Male_Reproductive_System_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000141|http://human.owl#NCI_C12432|"We have two entities from different biomedical ontologies.
+The first one is ""spleen"", which belongs to the broader category ""abdomen organ""
+The second one is ""Spleen"", which belongs to the broader category ""Organ""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001707|http://human.owl#NCI_C33244|"We have two entities from different biomedical ontologies.
+The first one is ""ovary follicle"", which belongs to the broader category ""Thing""
+The second one is ""Ovarian_Follicle"", which belongs to the broader category ""Female_Reproductive_System_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001012|http://human.owl#NCI_C12837|"We have two entities from different biomedical ontologies.
+The first one is ""cochlear VIII nucleus"", which belongs to the broader category ""brainstem nucleus""
+The second one is ""Cochlear_Nuclei"", which belongs to the broader category ""Other_Anatomic_Concept""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001010|http://human.owl#NCI_C12836|"We have two entities from different biomedical ontologies.
+The first one is ""abducens VI nucleus"", which belongs to the broader category ""brainstem nucleus""
+The second one is ""Abducens_Nucleus"", which belongs to the broader category ""Brain_Nucleus""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002522|http://human.owl#NCI_C13277|"We have two entities from different biomedical ontologies.
+The first one is ""semen"", which belongs to the broader category ""male reproductive system fluid/secretion""
+The second one is ""Semen"", which belongs to the broader category ""Male_Genital_System_Fluid_or_Secretion""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000306|http://human.owl#NCI_C12861|"We have two entities from different biomedical ontologies.
+The first one is ""hand phalanx"", which belongs to the broader category ""phalanx""
+The second one is ""Phalanx_of_the_Hand"", which belongs to the broader category ""Bone_of_the_Upper_Extremity""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000471|http://human.owl#NCI_C32898|"We have two entities from different biomedical ontologies.
+The first one is ""knee joint"", which belongs to the broader category ""hindlimb joint""
+The second one is ""Knee_Joint"", which belongs to the broader category ""Joint_By_Site""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000154|http://human.owl#NCI_C13317|"We have two entities from different biomedical ontologies.
+The first one is ""hair follicle"", which belongs to the broader category ""Thing""
+The second one is ""Hair_Follicle"", which belongs to the broader category ""Hair_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000288|http://human.owl#NCI_C12633|"We have two entities from different biomedical ontologies.
+The first one is ""olfactory receptor nerve"", which belongs to the broader category ""Thing""
+The second one is ""Olfactory_Receptor_Neuron"", which belongs to the broader category ""Sensory_Neuron""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001056|http://human.owl#NCI_C32409|"We have two entities from different biomedical ontologies.
+The first one is ""crura cerebri"", which belongs to the broader category ""brainstem white matter""
+The second one is ""Crus_Cerebri"", which belongs to the broader category ""Brain_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000178|http://human.owl#NCI_C12773|"We have two entities from different biomedical ontologies.
+The first one is ""neurohypophysis"", which belongs to the broader category ""Thing""
+The second one is ""Posterior_Lobe_of_the_Pituitary_Gland"", which belongs to the broader category ""Endocrine_System_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000401|http://human.owl#NCI_C32395|"We have two entities from different biomedical ontologies.
+The first one is ""bulbourethral gland"", which belongs to the broader category ""exocrine gland""
+The second one is ""Cowper_s_Gland"", which belongs to the broader category ""Exocrine_Gland""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001631|http://human.owl#NCI_C12698|"We have two entities from different biomedical ontologies.
+The first one is ""common bile duct"", which belongs to the broader category ""Thing""
+The second one is ""Common_Bile_Duct"", which belongs to the broader category ""Extrahepatic_Bile_Duct""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000165|http://human.owl#NCI_C13050|"We have two entities from different biomedical ontologies.
+The first one is ""skeletal muscle"", which belongs to the broader category ""muscle""
+The second one is ""Skeletal_Muscle_Tissue"", which belongs to the broader category ""Striated_Muscle_Tissue""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002347|http://human.owl#NCI_C33191|"We have two entities from different biomedical ontologies.
+The first one is ""obturator externus"", which belongs to the broader category ""skeletal muscle""
+The second one is ""Obturator_Externus_Muscle"", which belongs to the broader category ""Obturator_Muscle""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000040|http://human.owl#NCI_C32266|"We have two entities from different biomedical ontologies.
+The first one is ""carpus"", which belongs to the broader category ""Thing""
+The second one is ""Carpus_Bone"", which belongs to the broader category ""Short_Bone""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000110|http://human.owl#NCI_C49571|"We have two entities from different biomedical ontologies.
+The first one is ""intervertebral disc"", which belongs to the broader category ""connective tissue""
+The second one is ""Intervertebral_Disc"", which belongs to the broader category ""Musculoskeletal_System_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001840|http://human.owl#NCI_C49213|"We have two entities from different biomedical ontologies.
+The first one is ""bronchus smooth muscle"", which belongs to the broader category ""lower respiratory tract smooth muscle""
+The second one is ""Bronchus_Smooth_Muscle_Tissue"", which belongs to the broader category ""Smooth_Muscle_Tissue""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000177|http://human.owl#NCI_C12772|"We have two entities from different biomedical ontologies.
+The first one is ""adenohypophysis"", which belongs to the broader category ""Thing""
+The second one is ""Anterior_Lobe_of_the_Pituitary_Gland"", which belongs to the broader category ""Endocrine_System_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000016|http://human.owl#NCI_C12755|"We have two entities from different biomedical ontologies.
+The first one is ""nervous system"", which belongs to the broader category ""organ system""
+The second one is ""Nervous_System"", which belongs to the broader category ""Organ_System""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001731|http://human.owl#NCI_C49314|"We have two entities from different biomedical ontologies.
+The first one is ""vagina squamous epithelium"", which belongs to the broader category ""vagina epithelium""
+The second one is ""Vaginal_Squamous_Epithelium"", which belongs to the broader category ""Vaginal_Epithelium""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000350|http://human.owl#NCI_C33136|"We have two entities from different biomedical ontologies.
+The first one is ""molar"", which belongs to the broader category ""tooth""
+The second one is ""Molar_Tooth"", which belongs to the broader category ""Permanent_Tooth""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000014|http://human.owl#NCI_C12470|"We have two entities from different biomedical ontologies.
+The first one is ""integumental system"", which belongs to the broader category ""organ system""
+The second one is ""Skin"", which belongs to the broader category ""Organ""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000314|http://human.owl#NCI_C12798|"We have two entities from different biomedical ontologies.
+The first one is ""thoracic vertebra"", which belongs to the broader category ""upper back bone""
+The second one is ""Thoracic_Vertebra"", which belongs to the broader category ""Vertebra""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001340|http://human.owl#NCI_C12857|"We have two entities from different biomedical ontologies.
+The first one is ""trapezium"", which belongs to the broader category ""distal carpal bone""
+The second one is ""Trapezial_Bone"", which belongs to the broader category ""Carpal_Bone""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002673|http://human.owl#NCI_C38515|"We have two entities from different biomedical ontologies.
+The first one is ""thymus lymphoid tissue"", which belongs to the broader category ""Thing""
+The second one is ""Thymic_Lymphoid_Tissue"", which belongs to the broader category ""Lymphoid_Tissue""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0000165|http://human.owl#NCI_C33558|"We have two entities from different biomedical ontologies.
+The first one is ""skeletal muscle"", which belongs to the broader category ""muscle""
+The second one is ""Skeletal_Fiber"", which belongs to the broader category ""Musculoskeletal_System_Part""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0002511|http://human.owl#NCI_C52556|"We have two entities from different biomedical ontologies.
+The first one is ""ovary follicle fluid"", which belongs to the broader category ""female reproductive system fluid/secretion""
+The second one is ""Ovarian_Follicle_Fluid"", which belongs to the broader category ""Female_Genital_System_Fluid_or_Secretion""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."
+http://mouse.owl#MA_0001837|http://human.owl#NCI_C49214|"We have two entities from different biomedical ontologies.
+The first one is ""bronchus submucosa"", which belongs to the broader category ""bronchus connective tissue""
+The second one is ""Bronchus_Submucosa"", which belongs to the broader category ""Submucosa""
+
+Do they mean the same thing? Respond with ""True"" or ""False""."

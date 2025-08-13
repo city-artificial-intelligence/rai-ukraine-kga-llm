@@ -1,23 +1,27 @@
 from __future__ import annotations
 
+import os
 from typing import Any
 
-from openai import OpenAI
+import openai
 from pydantic import BaseModel
 
 from src.constants import BinaryOutputFormat, LLMCallOutput, TokensUsage
 
 
 class OpenAIServer:
-    def __init__(self, **kwargs: dict[str, Any]) -> None:
+    def __init__(self, api_key: str | None = None, base_url: str | None = None, **kwargs: dict[str, Any]) -> None:
         """Initialize the server with an OpenAI API key and optional parameters.
 
         Parameters
         ----------
+        api_key (str | None): API key. If not provided, it will be fetched from the environment variable OPENAI_API_KEY.
+        base_url (str | None): Base URL for the API. If not provided, it will be None and used the default OpenAI URL.
         **kwargs (Any): Optional keyword arguments to set additional attributes.
 
         Attributes
         ----------
+        base_url (str | None): Base URL for the API. (by default - OpenAI URL, but can be a custom URL, e.g. for Gemini)
         client (OpenAI): Instance of the OpenAI client.
         chat_context (list): List to store the chat context.
         system_prompt_text (str or None): Text for the system prompt.
@@ -29,7 +33,12 @@ class OpenAIServer:
         top_logprobs (int): Number of top log probabilities to include, default is 3.
 
         """
-        self.client = OpenAI()
+        if api_key is None:
+            api_key = os.getenv("OPENAI_API_KEY")
+
+        self.base_url = base_url
+
+        self.client = openai.OpenAI(api_key=api_key, base_url=base_url)
         self.chat_context = []
 
         self.response_format = BinaryOutputFormat
@@ -81,22 +90,29 @@ class OpenAIServer:
         try:
             messages = [*self.chat_context, self.wrap_text_message(message, "user")]
 
-            response = self.client.beta.chat.completions.parse(
-                model=model,
-                messages=messages,
-                max_tokens=self.max_tokens,
-                temperature=self.temperature,
-                top_p=self.top_p,
-                logprobs=self.logprobs,
-                top_logprobs=self.top_logprobs,
-                response_format=self.response_format,
-            )
+            inference_kwargs = {
+                "model": model,
+                "messages": messages,
+                "temperature": self.temperature,
+                "top_p": self.top_p,
+                "response_format": self.response_format,
+            }
+            if self.base_url is None:
+                inference_kwargs["max_tokens"] = self.max_tokens
+                inference_kwargs["logprobs"] = self.logprobs
+                inference_kwargs["top_logprsobs"] = self.top_logprobs
+
+            response = self.client.beta.chat.completions.parse(**inference_kwargs)
+
             output_message = response.choices[0].message.content
             usage = TokensUsage(
                 input_tokens=response.usage.prompt_tokens,
                 output_tokens=response.usage.completion_tokens,
             )
-            logprobs = response.choices[0].logprobs.model_dump()["content"]
+            try:
+                logprobs = response.choices[0].logprobs.model_dump()["content"]
+            except AttributeError:
+                logprobs = []
             parsed_output = response.choices[0].message.parsed
             return LLMCallOutput(message=output_message, usage=usage, logprobs=logprobs, parsed=parsed_output)
 

@@ -1,5 +1,5 @@
-Experiment,Accuracy,Precision,Recall,F1 Score
-direct_entity,0.6428,0.8793,0.6297,0.7338
-direct_entity_ontological,0.5157,0.8811,0.4402,0.5871
-sequential_hierarchy,0.5362,0.8832,0.469,0.6127
-sequential_hierarchy_ontological,0.3538,0.8241,0.221,0.3485
+Prompt,Accuracy,Precision,Recall,F1 Score,Specificity,Sensitivity,Youden's index,Dataset,SubSet,Model
+direct_entity,0.6428,0.8793,0.6297,0.7338,0.6897,0.6297,0.3193,bioml-2024,omim-ordo,gpt-4o-mini
+direct_entity_ontological,0.5157,0.8811,0.4402,0.5871,0.7868,0.4402,0.227,bioml-2024,omim-ordo,gpt-4o-mini
+sequential_hierarchy,0.5362,0.8832,0.469,0.6127,0.7774,0.469,0.2464,bioml-2024,omim-ordo,gpt-4o-mini
+sequential_hierarchy_ontological,0.3538,0.8241,0.221,0.3485,0.8307,0.221,0.0517,bioml-2024,omim-ordo,gpt-4o-mini

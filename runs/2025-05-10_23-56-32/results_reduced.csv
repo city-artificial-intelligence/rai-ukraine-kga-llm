@@ -1,0 +1,7 @@
+Prompt,Accuracy,Precision,Recall,F1 Score,Specificity,Sensitivity,Youden's index,Dataset,SubSet,Model
+direct_entity,0.747,0.72,0.9939,0.8351,0.3,0.9939,0.2939,anatomy,human-mouse,gemini-1.5-flash
+direct_entity_ontological,0.747,0.72,0.9939,0.8351,0.3,0.9939,0.2939,anatomy,human-mouse,gemini-1.5-flash
+sequential_hierarchy,0.7312,0.7111,0.9816,0.8247,0.2778,0.9816,0.2594,anatomy,human-mouse,gemini-1.5-flash
+sequential_hierarchy_ontological,0.7115,0.694,0.9877,0.8152,0.2111,0.9877,0.1988,anatomy,human-mouse,gemini-1.5-flash
+direct_entity_with_synonyms,0.7549,0.7265,0.9939,0.8394,0.3222,0.9939,0.3161,anatomy,human-mouse,gemini-1.5-flash
+sequential_hierarchy_with_synonyms,0.7431,0.7188,0.9877,0.832,0.3,0.9877,0.2877,anatomy,human-mouse,gemini-1.5-flash

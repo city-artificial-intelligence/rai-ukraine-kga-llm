@@ -1,0 +1,6 @@
+Prompt,Accuracy,Precision,Recall,F1 Score,Specificity,Sensitivity,Youden's index,Dataset,SubSet,Model
+all_data_dummy,0.7352,0.7143,0.9816,0.8269,0.2889,0.9816,0.2705,anatomy,human-mouse,gemini-1.5-flash
+only_names,0.7194,0.6966,1.0,0.8212,0.2111,1.0,0.2111,anatomy,human-mouse,gemini-1.5-flash
+only_with_children,0.7352,0.7087,1.0,0.8295,0.2556,1.0,0.2556,anatomy,human-mouse,gemini-1.5-flash
+only_with_parents,0.7194,0.7,0.9877,0.8193,0.2333,0.9877,0.2211,anatomy,human-mouse,gemini-1.5-flash
+with_hierarchy,0.7273,0.7061,0.9877,0.8235,0.2556,0.9877,0.2433,anatomy,human-mouse,gemini-1.5-flash

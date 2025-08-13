@@ -1,0 +1,12 @@
+		greater	greater	less	less	two-sided	two-sided
+		t_test	wilcoxon	t_test	wilcoxon	t_test	wilcoxon
+OASystem + Gemini F2.0	Error Rate 10	0.9997	1.0	0.0003	0.002	0.0006	0.0039
+OASystem + Gemini F2.0	Error Rate 20	0.9176	0.8984	0.0824	0.125	0.1648	0.25
+OASystem + Gemini F2.0	Error Rate 30	0.0301	0.0371	0.9699	0.9727	0.0602	0.0742
+OASystem + Gemini F2.0	OASystem (auto)	0.0007	0.002	0.9993	1.0	0.0014	0.0039
+OASystem + Gemini F2.0	Perfect Oracle	0.9999	1.0	0.0001	0.002	0.0002	0.0039
+OASystem + Gemini F2.5	Error Rate 10	0.9909	0.998	0.0091	0.0039	0.0183	0.0078
+OASystem + Gemini F2.5	Error Rate 20	0.797	0.7871	0.203	0.248	0.406	0.4961
+OASystem + Gemini F2.5	Error Rate 30	0.0372	0.0488	0.9628	0.9629	0.0744	0.0977
+OASystem + Gemini F2.5	OASystem (auto)	0.0203	0.0273	0.9797	0.9805	0.0405	0.0547
+OASystem + Gemini F2.5	Perfect Oracle	0.9984	1.0	0.0016	0.002	0.0033	0.0039

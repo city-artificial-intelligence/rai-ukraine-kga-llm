@@ -1,0 +1,7 @@
+Prompt,Accuracy,Precision,Recall,F1 Score,Specificity,Sensitivity,Dataset,SubSet,Model
+direct_entity,0.7985,0.8384,0.9197,0.8771,0.3636,0.9197,bioml-2024,omim-ordo,gemini-2.0-flash-lite
+direct_entity_ontological,0.7445,0.854,0.8122,0.8326,0.5016,0.8122,bioml-2024,omim-ordo,gemini-2.0-flash-lite
+sequential_hierarchy,0.7971,0.8397,0.9153,0.8759,0.373,0.9153,bioml-2024,omim-ordo,gemini-2.0-flash-lite
+sequential_hierarchy_ontological,0.7234,0.8315,0.8105,0.8209,0.4107,0.8105,bioml-2024,omim-ordo,gemini-2.0-flash-lite
+direct_entity_with_synonyms,0.8613,0.8525,0.9948,0.9182,0.3824,0.9948,bioml-2024,omim-ordo,gemini-2.0-flash-lite
+sequential_hierarchy_with_synonyms,0.862,0.8542,0.993,0.9184,0.3918,0.993,bioml-2024,omim-ordo,gemini-2.0-flash-lite

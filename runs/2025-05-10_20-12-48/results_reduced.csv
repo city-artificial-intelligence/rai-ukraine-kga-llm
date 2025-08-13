@@ -1,0 +1,7 @@
+Prompt,Accuracy,Precision,Recall,F1 Score,Specificity,Sensitivity,Youden's index,Dataset,SubSet,Model
+direct_entity,0.793,0.7236,0.8292,0.7728,0.7663,0.8292,0.5955,bioml-2024,ncit-doid,gemini-2.5-flash-preview-04-17
+direct_entity_ontological,0.8012,0.7506,0.7961,0.7727,0.8049,0.7961,0.601,bioml-2024,ncit-doid,gemini-2.5-flash-preview-04-17
+sequential_hierarchy,0.807,0.7415,0.8375,0.7865,0.7846,0.8375,0.622,bioml-2024,ncit-doid,gemini-2.5-flash-preview-04-17
+sequential_hierarchy_ontological,0.7778,0.7168,0.7879,0.7507,0.7703,0.7879,0.5582,bioml-2024,ncit-doid,gemini-2.5-flash-preview-04-17
+direct_entity_with_synonyms,0.7614,0.674,0.8485,0.7512,0.6972,0.8485,0.5456,bioml-2024,ncit-doid,gemini-2.5-flash-preview-04-17
+sequential_hierarchy_with_synonyms,0.752,0.6617,0.8512,0.7446,0.6789,0.8512,0.5301,bioml-2024,ncit-doid,gemini-2.5-flash-preview-04-17

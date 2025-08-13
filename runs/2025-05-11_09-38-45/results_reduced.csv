@@ -1,0 +1,6 @@
+Prompt,Accuracy,Precision,Recall,F1 Score,Specificity,Sensitivity,Youden's index,Dataset,SubSet,Model
+all_data_dummy,0.7344,0.6062,0.8099,0.6934,0.6899,0.8099,0.4999,bioml-2024,snomed-fma.body,gemini-2.5-flash-preview-04-17
+only_names,0.7293,0.5897,0.8871,0.7085,0.6364,0.8871,0.5234,bioml-2024,snomed-fma.body,gemini-2.5-flash-preview-04-17
+only_with_children,0.7477,0.6128,0.8678,0.7184,0.6769,0.8678,0.5447,bioml-2024,snomed-fma.body,gemini-2.5-flash-preview-04-17
+only_with_parents,0.7508,0.6151,0.876,0.7227,0.6769,0.876,0.553,bioml-2024,snomed-fma.body,gemini-2.5-flash-preview-04-17
+with_hierarchy,0.7426,0.6099,0.8485,0.7097,0.6802,0.8485,0.5287,bioml-2024,snomed-fma.body,gemini-2.5-flash-preview-04-17

@@ -1,0 +1,8 @@
+Metric,Value
+Accuracy,0.7193675889328063
+Precision,0.6965811965811965
+Recall,1.0
+F1 Score,0.8211586901763224
+Specificity,0.2111111111111111
+Sensitivity,1.0
+Youden's index,0.21111111111111103

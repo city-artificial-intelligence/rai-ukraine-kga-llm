@@ -1,0 +1,190 @@
+Metric,Task,System,Score
+F1-Score,FMA-NCI,Error Rate 10,0.859
+F1-Score,FMA-NCI,Error Rate 20,0.840
+F1-Score,FMA-NCI,Error Rate 30,0.830
+F1-Score,FMA-NCI,OASystem (auto),0.829
+F1-Score,FMA-NCI,OASystem + Gemini F2.0,0.845
+F1-Score,FMA-NCI,OASystem + Gemini F2.5,0.828
+F1-Score,FMA-NCI,Perfect Oracle,0.875
+F1-Score,FMA-SNOMED,Error Rate 10,0.736
+F1-Score,FMA-SNOMED,Error Rate 20,0.721
+F1-Score,FMA-SNOMED,Error Rate 30,0.706
+F1-Score,FMA-SNOMED,OASystem (auto),0.710
+F1-Score,FMA-SNOMED,OASystem + Gemini F2.0,0.719
+F1-Score,FMA-SNOMED,OASystem + Gemini F2.5,0.694
+F1-Score,FMA-SNOMED,Perfect Oracle,0.747
+F1-Score,Mouse-Human,Error Rate 10,0.901
+F1-Score,Mouse-Human,Error Rate 20,0.891
+F1-Score,Mouse-Human,Error Rate 30,0.884
+F1-Score,Mouse-Human,OASystem (auto),0.880
+F1-Score,Mouse-Human,OASystem + Gemini F2.0,0.892
+F1-Score,Mouse-Human,OASystem + Gemini F2.5,0.898
+F1-Score,Mouse-Human,Perfect Oracle,0.910
+F1-Score,NCIT-DOID,Error Rate 10,0.907
+F1-Score,NCIT-DOID,Error Rate 20,0.898
+F1-Score,NCIT-DOID,Error Rate 30,0.888
+F1-Score,NCIT-DOID,OASystem (auto),0.869
+F1-Score,NCIT-DOID,OASystem + Gemini F2.0,0.882
+F1-Score,NCIT-DOID,OASystem + Gemini F2.5,0.895
+F1-Score,NCIT-DOID,Perfect Oracle,0.916
+F1-Score,OMIM-ORDO,Error Rate 10,0.625
+F1-Score,OMIM-ORDO,Error Rate 20,0.616
+F1-Score,OMIM-ORDO,Error Rate 30,0.612
+F1-Score,OMIM-ORDO,OASystem (auto),0.592
+F1-Score,OMIM-ORDO,OASystem + Gemini F2.0,0.620
+F1-Score,OMIM-ORDO,OASystem + Gemini F2.5,0.626
+F1-Score,OMIM-ORDO,Perfect Oracle,0.632
+F1-Score,SNOMED-FMA.body,Error Rate 10,0.637
+F1-Score,SNOMED-FMA.body,Error Rate 20,0.631
+F1-Score,SNOMED-FMA.body,Error Rate 30,0.628
+F1-Score,SNOMED-FMA.body,OASystem (auto),0.607
+F1-Score,SNOMED-FMA.body,OASystem + Gemini F2.0,0.622
+F1-Score,SNOMED-FMA.body,OASystem + Gemini F2.5,0.632
+F1-Score,SNOMED-FMA.body,Perfect Oracle,0.643
+F1-Score,SNOMED-NCI,Error Rate 10,0.757
+F1-Score,SNOMED-NCI,Error Rate 20,0.749
+F1-Score,SNOMED-NCI,Error Rate 30,0.740
+F1-Score,SNOMED-NCI,OASystem (auto),0.743
+F1-Score,SNOMED-NCI,OASystem + Gemini F2.0,0.747
+F1-Score,SNOMED-NCI,OASystem + Gemini F2.5,0.751
+F1-Score,SNOMED-NCI,Perfect Oracle,0.766
+F1-Score,SNOMED-NCIT.neoplas,Error Rate 10,0.723
+F1-Score,SNOMED-NCIT.neoplas,Error Rate 20,0.706
+F1-Score,SNOMED-NCIT.neoplas,Error Rate 30,0.690
+F1-Score,SNOMED-NCIT.neoplas,OASystem (auto),0.691
+F1-Score,SNOMED-NCIT.neoplas,OASystem + Gemini F2.0,0.694
+F1-Score,SNOMED-NCIT.neoplas,OASystem + Gemini F2.5,0.701
+F1-Score,SNOMED-NCIT.neoplas,Perfect Oracle,0.740
+F1-Score,SNOMED-NCIT.pharm,Error Rate 10,0.727
+F1-Score,SNOMED-NCIT.pharm,Error Rate 20,0.721
+F1-Score,SNOMED-NCIT.pharm,Error Rate 30,0.714
+F1-Score,SNOMED-NCIT.pharm,OASystem (auto),0.711
+F1-Score,SNOMED-NCIT.pharm,OASystem + Gemini F2.0,0.719
+F1-Score,SNOMED-NCIT.pharm,OASystem + Gemini F2.5,0.719
+F1-Score,SNOMED-NCIT.pharm,Perfect Oracle,0.732
+Precision,FMA-NCI,Error Rate 10,0.896
+Precision,FMA-NCI,Error Rate 20,0.874
+Precision,FMA-NCI,Error Rate 30,0.858
+Precision,FMA-NCI,OASystem (auto),0.860
+Precision,FMA-NCI,OASystem + Gemini F2.0,0.901
+Precision,FMA-NCI,OASystem + Gemini F2.5,0.853
+Precision,FMA-NCI,Perfect Oracle,0.912
+Precision,FMA-SNOMED,Error Rate 10,0.869
+Precision,FMA-SNOMED,Error Rate 20,0.855
+Precision,FMA-SNOMED,Error Rate 30,0.839
+Precision,FMA-SNOMED,OASystem (auto),0.796
+Precision,FMA-SNOMED,OASystem + Gemini F2.0,0.814
+Precision,FMA-SNOMED,OASystem + Gemini F2.5,0.854
+Precision,FMA-SNOMED,Perfect Oracle,0.884
+Precision,Mouse-Human,Error Rate 10,0.974
+Precision,Mouse-Human,Error Rate 20,0.965
+Precision,Mouse-Human,Error Rate 30,0.962
+Precision,Mouse-Human,OASystem (auto),0.915
+Precision,Mouse-Human,OASystem + Gemini F2.0,0.945
+Precision,Mouse-Human,OASystem + Gemini F2.5,0.963
+Precision,Mouse-Human,Perfect Oracle,0.981
+Precision,NCIT-DOID,Error Rate 10,0.928
+Precision,NCIT-DOID,Error Rate 20,0.916
+Precision,NCIT-DOID,Error Rate 30,0.907
+Precision,NCIT-DOID,OASystem (auto),0.845
+Precision,NCIT-DOID,OASystem + Gemini F2.0,0.875
+Precision,NCIT-DOID,OASystem + Gemini F2.5,0.907
+Precision,NCIT-DOID,Perfect Oracle,0.939
+Precision,OMIM-ORDO,Error Rate 10,0.917
+Precision,OMIM-ORDO,Error Rate 20,0.901
+Precision,OMIM-ORDO,Error Rate 30,0.894
+Precision,OMIM-ORDO,OASystem (auto),0.874
+Precision,OMIM-ORDO,OASystem + Gemini F2.0,0.882
+Precision,OMIM-ORDO,OASystem + Gemini F2.5,0.914
+Precision,OMIM-ORDO,Perfect Oracle,0.928
+Precision,SNOMED-FMA.body,Error Rate 10,0.767
+Precision,SNOMED-FMA.body,Error Rate 20,0.756
+Precision,SNOMED-FMA.body,Error Rate 30,0.753
+Precision,SNOMED-FMA.body,OASystem (auto),0.695
+Precision,SNOMED-FMA.body,OASystem + Gemini F2.0,0.727
+Precision,SNOMED-FMA.body,OASystem + Gemini F2.5,0.751
+Precision,SNOMED-FMA.body,Perfect Oracle,0.777
+Precision,SNOMED-NCI,Error Rate 10,0.907
+Precision,SNOMED-NCI,Error Rate 20,0.899
+Precision,SNOMED-NCI,Error Rate 30,0.888
+Precision,SNOMED-NCI,OASystem (auto),0.868
+Precision,SNOMED-NCI,OASystem + Gemini F2.0,0.866
+Precision,SNOMED-NCI,OASystem + Gemini F2.5,0.897
+Precision,SNOMED-NCI,Perfect Oracle,0.917
+Precision,SNOMED-NCIT.neoplas,Error Rate 10,0.692
+Precision,SNOMED-NCIT.neoplas,Error Rate 20,0.677
+Precision,SNOMED-NCIT.neoplas,Error Rate 30,0.662
+Precision,SNOMED-NCIT.neoplas,OASystem (auto),0.624
+Precision,SNOMED-NCIT.neoplas,OASystem + Gemini F2.0,0.636
+Precision,SNOMED-NCIT.neoplas,OASystem + Gemini F2.5,0.661
+Precision,SNOMED-NCIT.neoplas,Perfect Oracle,0.708
+Precision,SNOMED-NCIT.pharm,Error Rate 10,0.87
+Precision,SNOMED-NCIT.pharm,Error Rate 20,0.861
+Precision,SNOMED-NCIT.pharm,Error Rate 30,0.852
+Precision,SNOMED-NCIT.pharm,OASystem (auto),0.825
+Precision,SNOMED-NCIT.pharm,OASystem + Gemini F2.0,0.847
+Precision,SNOMED-NCIT.pharm,OASystem + Gemini F2.5,0.855
+Precision,SNOMED-NCIT.pharm,Perfect Oracle,0.874
+Recall,FMA-NCI,Error Rate 10,0.825
+Recall,FMA-NCI,Error Rate 20,0.808
+Recall,FMA-NCI,Error Rate 30,0.804
+Recall,FMA-NCI,OASystem (auto),0.800
+Recall,FMA-NCI,OASystem + Gemini F2.0,0.796
+Recall,FMA-NCI,OASystem + Gemini F2.5,0.804
+Recall,FMA-NCI,Perfect Oracle,0.841
+Recall,FMA-SNOMED,Error Rate 10,0.638
+Recall,FMA-SNOMED,Error Rate 20,0.624
+Recall,FMA-SNOMED,Error Rate 30,0.609
+Recall,FMA-SNOMED,OASystem (auto),0.641
+Recall,FMA-SNOMED,OASystem + Gemini F2.0,0.644
+Recall,FMA-SNOMED,OASystem + Gemini F2.5,0.585
+Recall,FMA-SNOMED,Perfect Oracle,0.647
+Recall,Mouse-Human,Error Rate 10,0.838
+Recall,Mouse-Human,Error Rate 20,0.827
+Recall,Mouse-Human,Error Rate 30,0.818
+Recall,Mouse-Human,OASystem (auto),0.848
+Recall,Mouse-Human,OASystem + Gemini F2.0,0.844
+Recall,Mouse-Human,OASystem + Gemini F2.5,0.842
+Recall,Mouse-Human,Perfect Oracle,0.848
+Recall,NCIT-DOID,Error Rate 10,0.886
+Recall,NCIT-DOID,Error Rate 20,0.88
+Recall,NCIT-DOID,Error Rate 30,0.87
+Recall,NCIT-DOID,OASystem (auto),0.895
+Recall,NCIT-DOID,OASystem + Gemini F2.0,0.890
+Recall,NCIT-DOID,OASystem + Gemini F2.5,0.883
+Recall,NCIT-DOID,Perfect Oracle,0.895
+Recall,OMIM-ORDO,Error Rate 10,0.474
+Recall,OMIM-ORDO,Error Rate 20,0.468
+Recall,OMIM-ORDO,Error Rate 30,0.465
+Recall,OMIM-ORDO,OASystem (auto),0.448
+Recall,OMIM-ORDO,OASystem + Gemini F2.0,0.478
+Recall,OMIM-ORDO,OASystem + Gemini F2.5,0.476
+Recall,OMIM-ORDO,Perfect Oracle,0.479
+Recall,SNOMED-FMA.body,Error Rate 10,0.545
+Recall,SNOMED-FMA.body,Error Rate 20,0.541
+Recall,SNOMED-FMA.body,Error Rate 30,0.538
+Recall,SNOMED-FMA.body,OASystem (auto),0.538
+Recall,SNOMED-FMA.body,OASystem + Gemini F2.0,0.543
+Recall,SNOMED-FMA.body,OASystem + Gemini F2.5,0.545
+Recall,SNOMED-FMA.body,Perfect Oracle,0.549
+Recall,SNOMED-NCI,Error Rate 10,0.65
+Recall,SNOMED-NCI,Error Rate 20,0.642
+Recall,SNOMED-NCI,Error Rate 30,0.634
+Recall,SNOMED-NCI,OASystem (auto),0.650
+Recall,SNOMED-NCI,OASystem + Gemini F2.0,0.656
+Recall,SNOMED-NCI,OASystem + Gemini F2.5,0.646
+Recall,SNOMED-NCI,Perfect Oracle,0.658
+Recall,SNOMED-NCIT.neoplas,Error Rate 10,0.757
+Recall,SNOMED-NCIT.neoplas,Error Rate 20,0.737
+Recall,SNOMED-NCIT.neoplas,Error Rate 30,0.721
+Recall,SNOMED-NCIT.neoplas,OASystem (auto),0.774
+Recall,SNOMED-NCIT.neoplas,OASystem + Gemini F2.0,0.763
+Recall,SNOMED-NCIT.neoplas,OASystem + Gemini F2.5,0.747
+Recall,SNOMED-NCIT.neoplas,Perfect Oracle,0.775
+Recall,SNOMED-NCIT.pharm,Error Rate 10,0.625
+Recall,SNOMED-NCIT.pharm,Error Rate 20,0.62
+Recall,SNOMED-NCIT.pharm,Error Rate 30,0.615
+Recall,SNOMED-NCIT.pharm,OASystem (auto),0.625
+Recall,SNOMED-NCIT.pharm,OASystem + Gemini F2.0,0.625
+Recall,SNOMED-NCIT.pharm,OASystem + Gemini F2.5,0.621
+Recall,SNOMED-NCIT.pharm,Perfect Oracle,0.629

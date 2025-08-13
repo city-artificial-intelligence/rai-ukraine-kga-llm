@@ -1,5 +1,5 @@
-Experiment,Accuracy,Precision,Recall,F1 Score
-direct_entity,0.7085,0.9037,0.6747,0.7725
-direct_entity_ontological,0.5126,0.8889,0.3836,0.5359
-sequential_hierarchy,0.7111,0.8899,0.6918,0.7784
-sequential_hierarchy_ontological,0.4799,0.8899,0.3322,0.4838
+Prompt,Accuracy,Precision,Recall,F1 Score,Specificity,Sensitivity,Youden's index,Dataset,SubSet,Model
+direct_entity,0.7085,0.9037,0.6747,0.7725,0.8019,0.6747,0.4765,anatomy,human-mouse,gpt-4o-mini
+direct_entity_ontological,0.5126,0.8889,0.3836,0.5359,0.8679,0.3836,0.2515,anatomy,human-mouse,gpt-4o-mini
+sequential_hierarchy,0.7111,0.8899,0.6918,0.7784,0.7642,0.6918,0.4559,anatomy,human-mouse,gpt-4o-mini
+sequential_hierarchy_ontological,0.4799,0.8899,0.3322,0.4838,0.8868,0.3322,0.219,anatomy,human-mouse,gpt-4o-mini

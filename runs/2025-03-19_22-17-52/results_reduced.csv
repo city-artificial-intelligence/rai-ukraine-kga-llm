@@ -1,0 +1,3 @@
+Prompt,Accuracy,Precision,Recall,F1 Score,Specificity,Sensitivity,Youden's index,Dataset,SubSet,Model
+direct_entity_with_synonyms,0.6,0.5179,0.8375,0.64,0.4248,0.8375,0.2623,bioml-2024,ncit-doid,gpt-4o-mini
+sequential_hierarchy_with_synonyms,0.5275,0.4416,0.427,0.4342,0.6016,0.427,0.0286,bioml-2024,ncit-doid,gpt-4o-mini

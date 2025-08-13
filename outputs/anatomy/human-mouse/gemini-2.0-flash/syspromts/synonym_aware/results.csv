@@ -1,0 +1,7 @@
+Prompt,Accuracy,Precision,Recall,F1 Score,Specificity,Sensitivity,Dataset,SubSet,Model
+direct_entity,0.8543,0.8421,0.9863,0.9085,0.4906,0.9863,anatomy,human-mouse,gemini-2.0-flash
+direct_entity_ontological,0.8191,0.8526,0.911,0.8808,0.566,0.911,anatomy,human-mouse,gemini-2.0-flash
+sequential_hierarchy,0.8442,0.8402,0.9726,0.9016,0.4906,0.9726,anatomy,human-mouse,gemini-2.0-flash
+sequential_hierarchy_ontological,0.8417,0.8658,0.9281,0.8959,0.6038,0.9281,anatomy,human-mouse,gemini-2.0-flash
+direct_entity_with_synonyms,0.8518,0.8377,0.9897,0.9074,0.4717,0.9897,anatomy,human-mouse,gemini-2.0-flash
+sequential_hierarchy_with_synonyms,0.8568,0.8446,0.9863,0.91,0.5,0.9863,anatomy,human-mouse,gemini-2.0-flash

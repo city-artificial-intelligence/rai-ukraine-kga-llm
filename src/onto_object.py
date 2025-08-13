@@ -15,7 +15,8 @@ class OntologyEntryAttr:
             self.thing_class = onto.getClassByURI(class_uri)
         else:
             self.thing_class = onto_entry
-        assert self.thing_class is not None
+        assert self.thing_class is not None, f"Class {class_uri} not found in ontology {onto.get_ontology_iri()}"
+
         self.annotation: dict[str : set | owlready2.ThingClass] = {"class": self.thing_class}
         self.onto: OntologyAccess = onto
         self.annotate_entry(onto)
@@ -68,7 +69,7 @@ class OntologyEntryAttr:
     def get_parents(self) -> set[OntologyEntryAttr]:
         return self.__owlready_set2_objects_set(self.annotation["parents"])
 
-    def __get_relatives_by_levels(self, max_level: int, relatives_func: callable) -> dict[int, OntologyEntryAttr]:
+    def __get_relatives_by_levels(self, max_level: int, relatives_func: callable) -> dict[int, set[OntologyEntryAttr]]:
         """Get the relatives of the entry by all levels up to max_level."""
         current_level = 0
         current_level_entries: set[owlready2.ThingClass] = {self.thing_class}
@@ -93,11 +94,11 @@ class OntologyEntryAttr:
 
         return relatives_by_levels
 
-    def get_parents_by_levels(self, max_level: int = 3) -> dict[int, OntologyEntryAttr]:
+    def get_parents_by_levels(self, max_level: int = 3) -> dict[int, set[OntologyEntryAttr]]:
         """Obtain the parents of the entry by all levels up to max_level."""
         return self.__get_relatives_by_levels(max_level, self.onto.getAncestors)
 
-    def get_children_by_levels(self, max_level: int = 3) -> dict[int, OntologyEntryAttr]:
+    def get_children_by_levels(self, max_level: int = 3) -> dict[int, set[OntologyEntryAttr]]:
         """Obtain the children of the entry by all levels up to max_level."""
         return self.__get_relatives_by_levels(max_level, self.onto.getDescendants)
 
@@ -105,6 +106,10 @@ class OntologyEntryAttr:
         """Return set of direct parents of the entry."""
         parents_by_levels = self.__get_relatives_by_levels(1, self.onto.getAncestors)
         return parents_by_levels[1] if len(parents_by_levels) > 1 else set()
+
+    def get_direct_parent(self) -> OntologyEntryAttr | None:
+        parent = next(iter(self.annotation["parents"])) if self.annotation["parents"] else None
+        return self.__wrap_owlready2_objects(parent) if parent else None
 
     def get_direct_children(self) -> set[OntologyEntryAttr]:
         """Return set of direct children of the entry."""

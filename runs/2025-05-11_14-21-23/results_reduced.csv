@@ -1,0 +1,6 @@
+Prompt,Accuracy,Precision,Recall,F1 Score,Specificity,Sensitivity,Youden's index,Dataset,SubSet,Model
+all_data_dummy,0.5905,0.5735,0.9418,0.7129,0.1783,0.9418,0.1201,bioml-2024,snomed-ncit.neoplas,gemini-2.0-flash
+only_names,0.6089,0.5828,0.9702,0.7281,0.185,0.9702,0.1552,bioml-2024,snomed-ncit.neoplas,gemini-2.0-flash
+only_with_children,0.5897,0.5705,0.9716,0.7189,0.1417,0.9716,0.1133,bioml-2024,snomed-ncit.neoplas,gemini-2.0-flash
+only_with_parents,0.5882,0.5692,0.9759,0.719,0.1333,0.9759,0.1092,bioml-2024,snomed-ncit.neoplas,gemini-2.0-flash
+with_hierarchy,0.6135,0.5861,0.9673,0.7299,0.1983,0.9673,0.1657,bioml-2024,snomed-ncit.neoplas,gemini-2.0-flash

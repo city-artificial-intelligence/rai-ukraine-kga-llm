@@ -1,0 +1,7 @@
+Prompt,Accuracy,Precision,Recall,F1 Score,Specificity,Sensitivity,Dataset,SubSet,Model
+direct_entity,0.8899,0.9057,0.9703,0.9369,0.4603,0.9703,largebio,fma-nci,gemini-2.0-flash
+direct_entity_ontological,0.8661,0.8964,0.951,0.9229,0.4127,0.951,largebio,fma-nci,gemini-2.0-flash
+sequential_hierarchy,0.8686,0.8978,0.9525,0.9243,0.4206,0.9525,largebio,fma-nci,gemini-2.0-flash
+sequential_hierarchy_ontological,0.8185,0.9138,0.8663,0.8894,0.5635,0.8663,largebio,fma-nci,gemini-2.0-flash
+direct_entity_with_synonyms,0.8661,0.8997,0.9465,0.9225,0.4365,0.9465,largebio,fma-nci,gemini-2.0-flash
+sequential_hierarchy_with_synonyms,0.8698,0.8968,0.9554,0.9252,0.4127,0.9554,largebio,fma-nci,gemini-2.0-flash
